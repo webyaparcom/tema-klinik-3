@@ -1,0 +1,3593 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menu",
+      "path": "menu-2",
+      "local": "header",
+      "category": "menu",
+      "id": "vey1el",
+      "desing": {
+        "bgcolor": "#1e3046",
+        "color": "#ffffff",
+        "activebgcolor": "#ffffff",
+        "activecolor": "#000000",
+        "height": "100px",
+        "ariaToggle": {
+          "tr": "Menüyü aç/kapat",
+          "en": "Toggle menu",
+          "ar": "تبديل القائمة"
+        },
+        "ariaClose": {
+          "tr": "Menüyü kapat",
+          "en": "Close menu"
+        },
+        "logobg": "transparent",
+        "logoborder": "none",
+        "logoradius": "0",
+        "logopad": "0",
+        "logopadmobil": "0",
+        "logomaxh": "100px",
+        "logoimg": "",
+        "langcolor": "currentColor",
+        "langbg": "transparent"
+      },
+      "version": "1.0.0",
+      "icon": "menu"
+    },
+    {
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "slider",
+      "id": "k4t90c",
+      "data": [
+        {
+          "img": "1.jpg"
+        },
+        {
+          "img": "2.jpg"
+        },
+        {
+          "img": "3.jpg"
+        }
+      ],
+      "desing": {
+        "delay": 3000,
+        "margin": "0px 0 0 0"
+      },
+      "version": "1.0.0",
+      "icon": "view_carousel",
+      "index": 1
+    },
+    {
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "id": "fhxr98",
+      "desing": {
+        "color": "#1e3046",
+        "name": {
+          "tr": "Bize Ulaşın"
+        },
+        "margin": "30px 0px 30px 0px",
+        "stil": "",
+        "linkcolor": "#1B3A6B"
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "0530 000 00 00",
+          "url": "tel:05310000000"
+        },
+        {
+          "icon": "email",
+          "text": "info@{{domain}}"
+        },
+        {
+          "icon": "map",
+          "text": "Adres Bilgis Henüz eklenmedi Şehitkamil / Gaziantep"
+        }
+      ],
+      "version": "1.0.0",
+      "icon": "contact_mail",
+      "index": 2
+    },
+    {
+      "name": "Maps",
+      "path": "map",
+      "local": "body",
+      "category": "map",
+      "id": "bi4hta",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#ffffff",
+        "color": "var(--mx-site-text, #1b1b1b)",
+        "img": "map.png",
+        "externalUrl": "",
+        "stil": "cerceveli",
+        "address": {
+          "tr": "Güneş Mah. Yonca Cd. No: 9, Şahinbey, Gaziantep (kurgusal adres)",
+          "en": "9 Yonca Avenue, Gunes District, Sahinbey, Gaziantep (fictional address)",
+          "ar": "حي غونش، شارع يونجا رقم 9، شاهين بي، غازي عنتاب (عنوان افتراضي)"
+        },
+        "phone": "",
+        "email": "",
+        "badgeText": {
+          "tr": "Merkezimiz",
+          "en": "Our centre",
+          "ar": "مركزنا"
+        },
+        "infoTitle": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "ar": "اتصل بنا"
+        },
+        "directions": {
+          "tr": "Yol tarifi al",
+          "en": "Get directions",
+          "ar": "احصل على الاتجاهات"
+        }
+      },
+      "version": "1.0.0",
+      "icon": "map",
+      "index": 3
+    },
+    {
+      "index": 4,
+      "name": "Page Desing",
+      "path": "page-desing-5",
+      "local": "body",
+      "category": "page",
+      "id": "tp5jo4",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "font-size": "32",
+        "backgroundcolor": "#000",
+        "menu-active": "var(--mx-site-primary, #2563eb)",
+        "stil": "ikon-ustte-yuvarlak",
+        "activetext": "var(--mx-site-primary-contrast, #ffffff)",
+        "textcolor": "#fff",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "border_radius": "24px",
+        "card_shadow": "0 10px 28px rgba(0, 0, 0, 0.08)",
+        "color": "var(--mx-site-text, #1b1b1b)",
+        "colortitle": "#111111",
+        "coloractive": "#000000",
+        "ui": {
+          "tr": {
+            "home": "Anasayfa",
+            "products": "Sayfalar",
+            "dimensions": "Ölçüler",
+            "dimNote": "Standart üretim referansıdır; proje bazında özelleştirilebilir.",
+            "quote": "Randevu",
+            "whatsapp": "WhatsApp",
+            "prev": "Önceki",
+            "next": "Sonraki"
+          },
+          "en": {
+            "home": "Home",
+            "products": "Pages",
+            "dimensions": "Dimensions",
+            "dimNote": "Standard production reference; customizable per project.",
+            "quote": "Appointment",
+            "whatsapp": "WhatsApp",
+            "prev": "Previous",
+            "next": "Next"
+          },
+          "ar": {
+            "home": "الرئيسية",
+            "products": "الصفحات",
+            "dimensions": "الأبعاد",
+            "dimNote": "مرجع إنتاج قياسي؛ قابل للتخصيص حسب المشروع.",
+            "quote": "موعد",
+            "whatsapp": "واتساب",
+            "prev": "السابق",
+            "next": "التالي"
+          }
+        },
+        "noTitle": {
+          "tr": "Başlık Yok",
+          "en": "No title",
+          "ar": "بدون عنوان"
+        },
+        "productNavAria": {
+          "tr": "Ürün navigasyonu",
+          "en": "Product navigation",
+          "ar": "تنقل المنتج"
+        }
+      },
+      "version": "1.0.0",
+      "icon": "web"
+    },
+    {
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "id": "txt39m",
+      "desing": {
+        "bgcolor": "#1e3046",
+        "color": "#fff",
+        "img": "",
+        "imgwidth": "250px",
+        "stil": "",
+        "showlang": true
+      },
+      "data": [],
+      "version": "1.0.0",
+      "icon": "web_asset",
+      "index": 5
+    },
+    {
+      "id": "t2ls01",
+      "name": "Ana Sayfa Liste",
+      "path": "page-column-3",
+      "local": "body",
+      "category": "page-list",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "page": "page",
+        "bgcolor": "#1e3046",
+        "color": "#fff",
+        "height": "200px",
+        "font-size": "18px",
+        "opacity": "0.5",
+        "chilebgcolor": "#000",
+        "chilecolor": "#fff",
+        "chilesize": "16px"
+      },
+      "index": 6
+    },
+    {
+      "id": "t2in01",
+      "name": "Tanitim",
+      "path": "module-1",
+      "local": "body",
+      "category": "module",
+      "version": "1.1.0",
+      "icon": "business",
+      "desing": {
+        "name": {
+          "tr": "Ailenizin tüm yaşları için",
+          "en": "For every age in your family",
+          "ar": "لكل أعمار عائلتك"
+        },
+        "description": {
+          "tr": "Mavi Yonca Aile Sağlığı, Gaziantep’te çocuk, aile hekimliği ve kadın sağlığı başta sekiz branşta randevu esaslı hizmet veren kurgusal bir demo merkezdir. Hekimlerimiz uzmanlık unvanlarıyla tanıtılır; odalarımız çocuklu aileler için ferah ve erişilebilir düzenlenmiştir.",
+          "en": "Mavi Yonca Family Health is a fictional demo centre in Gaziantep offering appointment-based care in eight departments led by paediatrics, family medicine and women’s health. Our physicians are introduced with their specialist titles; our rooms are spacious and accessible for families with children.",
+          "ar": "مافي يونجا لصحة الأسرة مركز تجريبي افتراضي في غازي عنتاب يقدّم خدماته بالمواعيد في ثمانية أقسام في مقدمتها طب الأطفال وطب الأسرة وصحة المرأة. نعرّف بأطبائنا مع ألقابهم التخصصية، وغرفنا واسعة ومهيأة للعائلات التي لديها أطفال."
+        },
+        "name2": {
+          "tr": "Çocuk bekleme köşesi",
+          "en": "Children’s waiting corner",
+          "ar": "ركن انتظار الأطفال"
+        },
+        "spot2": {
+          "tr": "Oyuncak ve kitaplı ayrı bekleme alanı.",
+          "en": "A separate waiting area with toys and books.",
+          "ar": "منطقة انتظار منفصلة فيها ألعاب وكتب."
+        },
+        "icon2": "child_care",
+        "name3": {
+          "tr": "Açık bilgilendirme",
+          "en": "Clear information",
+          "ar": "معلومات واضحة"
+        },
+        "spot3": {
+          "tr": "Uygulanacak işlem ve seçenekler muayenede anlaşılır biçimde anlatılır.",
+          "en": "The procedure and the options are explained clearly during the examination.",
+          "ar": "يُشرح الإجراء والخيارات المتاحة بوضوح أثناء الفحص."
+        },
+        "icon3": "fact_check",
+        "img": "klinik-bekleme.webp",
+        "bgcolor": "var(--mx-site-surface-2, #ececea)",
+        "fontcolor": "var(--mx-site-text, #1b1b1b)",
+        "margintop": "20",
+        "marginbotton": "20",
+        "title": {
+          "tr": "Mavi Yonca",
+          "en": "Mavi Yonca",
+          "ar": "مافي يونجا"
+        },
+        "stil": "ikon-liste"
+      },
+      "index": 7
+    },
+    {
+      "id": "t2st01",
+      "name": "İstatistik",
+      "path": "stats-1",
+      "local": "body",
+      "category": "stats",
+      "version": "1.0.0",
+      "icon": "monitoring",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, #1e3046 0%, #1e3046dd 100%)",
+        "numbercolor": "#2563EB",
+        "labelcolor": "#e2e8f0",
+        "stil": "",
+        "iconsize": "56px",
+        "iconbox": "88px"
+      },
+      "data": [
+        {
+          "number": 150,
+          "suffix": "+",
+          "label": {
+            "tr": "Tamamlanan Proje",
+            "en": "Projects"
+          },
+          "icon": "task_alt"
+        },
+        {
+          "number": 50,
+          "suffix": "+",
+          "label": {
+            "tr": "Mutlu Müşteri",
+            "en": "Clients"
+          },
+          "icon": "sentiment_satisfied"
+        },
+        {
+          "number": 10,
+          "suffix": "+",
+          "label": {
+            "tr": "Yıllik Deneyim",
+            "en": "Years"
+          },
+          "icon": "workspace_premium"
+        },
+        {
+          "number": 24,
+          "suffix": "/7",
+          "label": {
+            "tr": "Destek",
+            "en": "Support"
+          },
+          "icon": "support_agent"
+        }
+      ],
+      "index": 8
+    },
+    {
+      "id": "t2ct01",
+      "name": "CTA",
+      "path": "cta-1",
+      "local": "body",
+      "category": "cta",
+      "version": "1.1.0",
+      "icon": "campaign",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, color-mix(in srgb, var(--mx-site-primary, #2563eb) 42%, #000), color-mix(in srgb, var(--mx-site-primary, #2563eb) 24%, #000))",
+        "btnbg": "#ffffff",
+        "btncolor": "#10203A",
+        "title": {
+          "tr": "Randevu için bize ulaşın",
+          "en": "Contact us for an appointment",
+          "ar": "تواصل معنا لحجز موعد"
+        },
+        "description": {
+          "tr": "Randevu talepleri hekim takvimine göre onaylanır; onay bilgisi telefon veya e-posta ile iletilir. Acil durumlarda lütfen 112’yi arayın.",
+          "en": "Appointment requests are confirmed according to the physician’s schedule, and confirmation is sent by phone or e-mail. In an emergency, please call 112.",
+          "ar": "تُؤكَّد طلبات المواعيد وفق جدول الطبيب، وتُرسَل معلومات التأكيد عبر الهاتف أو البريد الإلكتروني. وفي الحالات الطارئة يُرجى الاتصال بالرقم 112."
+        },
+        "btn1Text": {
+          "tr": "Randevu al",
+          "en": "Book an appointment",
+          "ar": "احجز موعدًا"
+        },
+        "btn1Url": "randevu",
+        "btn2Text": {
+          "tr": "Hekimlerimiz",
+          "en": "Our physicians",
+          "ar": "أطباؤنا"
+        },
+        "btn2Url": "hekimlerimiz",
+        "stil": "gradient"
+      },
+      "index": 9
+    },
+    {
+      "id": "t2plpr",
+      "name": "Ürünler Liste",
+      "path": "page-column-3",
+      "local": "body",
+      "category": "page-list",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "page": "products",
+        "bgcolor": "#1e3046",
+        "color": "#fff",
+        "height": "200px",
+        "font-size": "18px",
+        "opacity": "0.5",
+        "chilebgcolor": "#000",
+        "chilecolor": "#fff",
+        "chilesize": "16px"
+      },
+      "index": 10
+    },
+    {
+      "name": "Demo Bandı",
+      "description": "Demo sitelerin her sayfasının üstünde duran, kapatılamaz bilgi şeridi: «Bu bir demo sitedir» uyarısı ve «Bu temayı iste» bağlantısı. Sayfanın en üstüne yapışır (position:sticky), sabit menüleri bant yüksekliği kadar aşağı iter (--mx-demo-bandi-h). Üç dil (TR/EN/AR), Arapçada RTL, mobilde iki satıra sarar.",
+      "version": "1.0.0",
+      "icon": "info",
+      "category": "demo",
+      "tags": [
+        "demo",
+        "bant",
+        "uyarı",
+        "banner",
+        "rtl"
+      ],
+      "desing": {
+        "tone": "info",
+        "bandBg": "",
+        "bandFg": "",
+        "ctaHref": "https://webyapar.com/temalar",
+        "ariaLabel": {
+          "tr": "Demo site uyarısı",
+          "en": "Demo site notice",
+          "ar": "تنبيه الموقع التجريبي"
+        },
+        "text": {
+          "tr": "Bu bir demo sitedir — içerik kurgusaldır, ödeme alınmaz",
+          "en": "This is a demo site — the content is fictional and no payment is taken",
+          "ar": "هذا موقع تجريبي — المحتوى افتراضي ولا يتم تحصيل أي مدفوعات"
+        },
+        "ctaText": {
+          "tr": "Bu temayı iste",
+          "en": "Get this theme",
+          "ar": "اطلب هذا القالب"
+        },
+        "newTabText": {
+          "tr": "(yeni sekmede açılır)",
+          "en": "(opens in a new tab)",
+          "ar": "(يفتح في علامة تبويب جديدة)"
+        }
+      },
+      "id": "ps65kv",
+      "path": "demo-bandi",
+      "local": "header",
+      "data": [],
+      "index": 11
+    },
+    {
+      "name": {
+        "tr": "Menü 10 — Şeffaf overlay",
+        "en": "Menu 10 — Transparent overlay",
+        "ar": "القائمة 10 — شفافة فوق الهيرو"
+      },
+      "description": {
+        "tr": "Hero'nun üstüne binen şeffaf menü (position:absolute): başlangıçta şeffaf zemin + açık yazı (menutextOverlay) ve altında ince koyu gradient scrim; kaydırınca 300 ms'de katı zemine (menubg/menutext) geçer ve sabitlenir. Sayfada hero yoksa (#content ilk çocuğu data-mx-hero / *-hero değilse) baştan katı ve akışta. Mobil: tam ekran panel. desing.stil: sade | cta-butonlu (sağda vurgulu düğme). Dil seçici {{langbar}}. Üç dil + RTL.",
+        "en": "Transparent menu overlaid on the hero (position:absolute): transparent background + light text (menutextOverlay) with a thin dark gradient scrim underneath; on scroll it switches to a solid background (menubg/menutext) in 300 ms and sticks. Without a hero on the page (#content first child lacks data-mx-hero / *-hero) it starts solid and in flow. Mobile: full-screen panel. desing.stil: sade | cta-butonlu (accent button on the end side). Language switcher {{langbar}}. Three languages + RTL.",
+        "ar": "قائمة شفافة فوق الهيرو (position:absolute): خلفية شفافة ونص فاتح (menutextOverlay) مع تدرّج داكن رفيع أسفلها؛ عند التمرير تتحوّل خلال 300 ms إلى خلفية صلبة (menubg/menutext) وتثبت. إن لم توجد وحدة هيرو في الصفحة (أول عنصر في #content بلا data-mx-hero / *-hero) تبدأ صلبة وضمن التدفق. الجوال: لوحة بملء الشاشة. desing.stil: sade | cta-butonlu (زر بارز في جهة النهاية). محدد اللغة {{langbar}}. ثلاث لغات + RTL."
+      },
+      "version": "1.0.0",
+      "icon": "layers",
+      "category": "menu",
+      "tags": [
+        "menu",
+        "overlay",
+        "seffaf",
+        "transparent",
+        "hero",
+        "sticky",
+        "ar"
+      ],
+      "desing": {
+        "stil": "cta-butonlu",
+        "logo": "{{logo}}",
+        "logo_acik": "",
+        "logo_h": "48px",
+        "max": "1200px",
+        "showlang": true,
+        "menubg": "var(--mx-site-bg, #ffffff)",
+        "menutext": "var(--mx-site-text, #1b1b1b)",
+        "menutextOverlay": "#ffffff",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "border": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 14%, transparent)",
+        "cta": {
+          "tr": "Randevu al",
+          "en": "Book now",
+          "ar": "احجز الآن"
+        },
+        "cta_url": "randevu"
+      },
+      "data": [
+        {
+          "name": {
+            "tr": "Hakkımızda",
+            "en": "About",
+            "ar": "من نحن"
+          },
+          "url": "hakkimizda"
+        }
+      ],
+      "id": "c9cto9",
+      "path": "menu-10",
+      "local": "header",
+      "index": 12
+    },
+    {
+      "name": {
+        "tr": "Slider Ken Burns",
+        "en": "Ken Burns Slider",
+        "ar": "سلايدر كين بيرنز"
+      },
+      "description": {
+        "tr": "Sıfır bağımlılıklı tam genişlik slider (Swiper yok): görsel yavaş yakınlaşma/kayma (CSS keyframes 10 sn, reduced-motion'da kapalı), her slaytta eyebrow + h2 + metin + CTA ve metin giriş animasyonu; nokta + ok navigasyon, klavye ←/→, dokunma kaydırma, otomatik oynatma durdur/başlat düğmesi (hover/odakta duraklar, reduced-motion'da kapalı). data[] = [{img, alt{}, eyebrow{}, title{}, text{}, cta{}, url}]. desing.stil: tam | kart (içerik yarı saydam kartta) | bolunmus (görsel bitiş tarafında, metin düz zeminde). Yükseklik desing.yukseklik (vh, min 420px). Üç dil + RTL.",
+        "en": "Zero-dependency full-width slider (no Swiper): slow image zoom/pan (CSS keyframes 10 s, off under reduced-motion), eyebrow + h2 + text + CTA per slide with text entrance animation; dot + arrow navigation, keyboard ←/→, touch swipe, autoplay pause/play button (pauses on hover/focus, off under reduced-motion). data[] = [{img, alt{}, eyebrow{}, title{}, text{}, cta{}, url}]. desing.stil: tam | kart (content in a translucent card) | bolunmus (image on the end side, text on a solid background). Height desing.yukseklik (vh, min 420px). Three languages + RTL.",
+        "ar": "سلايدر بعرض كامل بدون أي تبعيات (بلا Swiper): تقريب/تحريك بطيء للصورة (CSS keyframes 10 ث، يتوقف عند تقليل الحركة)، في كل شريحة تسمية + h2 + نص + زر مع حركة دخول للنص؛ تنقّل بالنقاط والأسهم، لوحة المفاتيح ←/→، سحب باللمس، زر إيقاف/تشغيل التشغيل التلقائي (يتوقف عند التحويم/التركيز، ومعطّل عند تقليل الحركة). data[] = [{img, alt{}, eyebrow{}, title{}, text{}, cta{}, url}]. desing.stil: tam | kart (المحتوى في بطاقة شبه شفافة) | bolunmus (الصورة في جهة النهاية والنص على خلفية صلبة). الارتفاع desing.yukseklik (vh، الحد الأدنى 420px). ثلاث لغات + RTL."
+      },
+      "version": "1.0.0",
+      "icon": "slideshow",
+      "category": "slider",
+      "tags": [
+        "slider",
+        "kenburns",
+        "ken-burns",
+        "karusel",
+        "hero",
+        "sifir-bagimlilik",
+        "ar"
+      ],
+      "desing": {
+        "stil": "kart",
+        "yukseklik": 78,
+        "sure": 7000,
+        "otomatik": true,
+        "max": "1200px",
+        "overlay": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 25%, #0b1220)",
+        "overlayText": "#ffffff",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "text": "var(--mx-site-text, #1b1b1b)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "radius": "28px",
+        "aria_label": {
+          "tr": "Tanıtım slaytları",
+          "en": "Intro slides",
+          "ar": "شرائح تعريفية"
+        },
+        "prev_label": {
+          "tr": "Önceki slayt",
+          "en": "Previous slide",
+          "ar": "الشريحة السابقة"
+        },
+        "next_label": {
+          "tr": "Sonraki slayt",
+          "en": "Next slide",
+          "ar": "الشريحة التالية"
+        },
+        "dot_label": {
+          "tr": "{n}. slayta git",
+          "en": "Go to slide {n}",
+          "ar": "الانتقال إلى الشريحة {n}"
+        },
+        "pause_label": {
+          "tr": "Otomatik oynatmayı durdur",
+          "en": "Pause autoplay",
+          "ar": "إيقاف التشغيل التلقائي"
+        },
+        "play_label": {
+          "tr": "Otomatik oynatmayı başlat",
+          "en": "Start autoplay",
+          "ar": "بدء التشغيل التلقائي"
+        },
+        "slide_label": {
+          "tr": "{i} / {n}",
+          "en": "{i} of {n}",
+          "ar": "{i} من {n}"
+        }
+      },
+      "data": [
+        {
+          "img": "/img/klinik-bekleme.webp",
+          "alt": {
+            "tr": "Açık yeşil koltuklu aydınlık bekleme salonu",
+            "en": "Bright waiting lounge with pale green armchairs",
+            "ar": "صالة انتظار مضيئة بمقاعد خضراء فاتحة"
+          },
+          "eyebrow": {
+            "tr": "Aile sağlığı · Gaziantep",
+            "en": "Family health · Gaziantep",
+            "ar": "صحة الأسرة · غازي عنتاب"
+          },
+          "title": {
+            "tr": "Ailenizin her yaşı için sakin bir merkez",
+            "en": "A calm centre for every age in your family",
+            "ar": "مركز هادئ لكل أعمار عائلتك"
+          },
+          "text": {
+            "tr": "Randevu talepleri hekim takvimine göre onaylanır; onay bilgisi telefon veya e-posta ile iletilir. Acil durumlarda lütfen 112’yi arayın.",
+            "en": "Appointment requests are confirmed according to the physician’s schedule, and confirmation is sent by phone or e-mail. In an emergency, please call 112.",
+            "ar": "تُؤكَّد طلبات المواعيد وفق جدول الطبيب، وتُرسَل معلومات التأكيد عبر الهاتف أو البريد الإلكتروني. وفي الحالات الطارئة يُرجى الاتصال بالرقم 112."
+          },
+          "cta": {
+            "tr": "Randevu al",
+            "en": "Book an appointment",
+            "ar": "احجز موعدًا"
+          },
+          "url": "randevu"
+        },
+        {
+          "img": "/img/klinik-muayene-koltugu.webp",
+          "alt": {
+            "tr": "Beyaz odada ayarlanabilir muayene koltuğu",
+            "en": "Adjustable examination chair in a white room",
+            "ar": "كرسي فحص قابل للتعديل في غرفة بيضاء"
+          },
+          "eyebrow": {
+            "tr": "Sekiz branş",
+            "en": "Eight departments",
+            "ar": "ثمانية أقسام"
+          },
+          "title": {
+            "tr": "Çocuk, aile hekimliği, kadın sağlığı ve daha fazlası",
+            "en": "Paediatrics, family medicine, women’s health and more",
+            "ar": "طب الأطفال وطب الأسرة وصحة المرأة والمزيد"
+          },
+          "text": {
+            "tr": "Her branşta muayene, gerekli tetkikler ve takip planı hekim tarafından belirlenir.",
+            "en": "In every department the examination, tests and follow-up plan are determined by the physician.",
+            "ar": "في كل قسم يحدّد الطبيب الفحص والتحاليل وخطة المتابعة."
+          },
+          "cta": {
+            "tr": "Branşlar",
+            "en": "Departments",
+            "ar": "الأقسام"
+          },
+          "url": "tedaviler"
+        },
+        {
+          "img": "/img/klinik-harita-bina.webp",
+          "alt": {
+            "tr": "Cam girişli iki katlı tıp merkezi binası",
+            "en": "Two-storey medical centre building with a glass entrance",
+            "ar": "مبنى المركز الطبي من طابقين بمدخل زجاجي"
+          },
+          "eyebrow": {
+            "tr": "Erişilebilir",
+            "en": "Accessible",
+            "ar": "مهيأ للجميع"
+          },
+          "title": {
+            "tr": "Rampa, asansör ve engelli otoparkı",
+            "en": "Ramp, lift and accessible parking",
+            "ar": "منحدر ومصعد ومواقف مخصصة"
+          },
+          "text": {
+            "tr": "Özel ihtiyacınızı randevu notuna yazın; ekibimiz hazırlık yapsın.",
+            "en": "Write your special needs in the appointment note so our team can prepare.",
+            "ar": "اكتب احتياجك الخاص في ملاحظة الموعد ليتمكن فريقنا من التجهيز."
+          },
+          "cta": {
+            "tr": "Erişilebilirlik",
+            "en": "Accessibility",
+            "ar": "إمكانية الوصول"
+          },
+          "url": "erisilebilirlik"
+        }
+      ],
+      "id": "4kmpux",
+      "path": "slider-kenburns",
+      "local": "header",
+      "index": 13
+    },
+    {
+      "name": "Footer 9 — Kurumsal",
+      "desing": {
+        "showlang": true,
+        "maxpages": 8,
+        "bgcolor": "var(--mx-site-surface-2, #1f2937)",
+        "color": "var(--mx-site-text, #f3f4f6)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #f3f4f6) 72%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #f3f4f6) 18%, transparent)",
+        "logo_maxh": "56px",
+        "logo_plate": true,
+        "about": {
+          "tr": "Çocuk, aile hekimliği ve kadın sağlığı başta sekiz branş. Kurgusal demo merkez.",
+          "en": "Eight departments led by paediatrics, family medicine and women’s health. A fictional demo centre.",
+          "ar": "ثمانية أقسام في مقدمتها طب الأطفال وطب الأسرة وصحة المرأة. مركز تجريبي افتراضي."
+        },
+        "title_pages": {
+          "tr": "Sayfalar",
+          "en": "Pages",
+          "ar": "الصفحات"
+        },
+        "title_contact": {
+          "tr": "İletişim",
+          "en": "Contact",
+          "ar": "اتصل بنا"
+        },
+        "title_social": {
+          "tr": "Bizi Takip Edin",
+          "en": "Follow Us",
+          "ar": "تابعنا"
+        },
+        "address": {
+          "tr": "Güneş Mah. Yonca Cd. No: 9, Şahinbey, Gaziantep (kurgusal adres)",
+          "en": "9 Yonca Avenue, Gunes District, Sahinbey, Gaziantep (fictional address)",
+          "ar": "حي غونش، شارع يونجا رقم 9، شاهين بي، غازي عنتاب (عنوان افتراضي)"
+        },
+        "phone": "+90 342 000 00 12",
+        "email": "randevu@maviyonca.example",
+        "social": [],
+        "legal": [
+          {
+            "name": {
+              "tr": "Hakkımızda",
+              "en": "About us",
+              "ar": "من نحن"
+            },
+            "href": "hakkimizda"
+          },
+          {
+            "name": {
+              "tr": "Hasta hakları",
+              "en": "Patient rights",
+              "ar": "حقوق المرضى"
+            },
+            "href": "hasta-haklari"
+          },
+          {
+            "name": {
+              "tr": "Kişisel veriler",
+              "en": "Personal data",
+              "ar": "البيانات الشخصية"
+            },
+            "href": "kisiselveriler"
+          }
+        ],
+        "rightsText": {
+          "tr": "Tüm hakları saklıdır.",
+          "en": "All rights reserved.",
+          "ar": "جميع الحقوق محفوظة."
+        }
+      },
+      "category": "footer",
+      "data": [],
+      "description": "Kurumsal alt bilgi (footer): 4 sütun — marka (logo + kısa metin), sayfalar, iletişim (address/phone/email; boşsa setting.phone/email, hiçbiri yoksa sütun gizli), sosyal (social: [{ad,url}]; boşsa gizli). Alt şerit: telif (yıl otomatik), yasal bağlantılar (legal: [{text,href}], dil önekli), dil seçici. Renkler yalnız desing anahtarı + var(--mx-site-*, fallback): token'sız sitede fallback, colorScheme:auto sitede koyu mod uyumlu. logo_maxh / logo_plate footer-3 ile aynı.",
+      "version": "1.0.0",
+      "icon": "footer",
+      "id": "jccolu",
+      "path": "footer-9",
+      "local": "footer",
+      "index": 14
+    },
+    {
+      "name": "Demo Kredi Şeridi",
+      "description": "Demo sitelerin alt bilgisinde duran kredi şeridi: «Bu demo Webyapar tarafından hazırlanmıştır — Bu temayı iste». Marka adı çevrilmez (Latin, dir=ltr izole), bağlantı demo adına göre webyapar.com/temalar#<slug>. Üç dil (TR/EN/AR), mantıksal CSS (RTL), mobilde sarar, reduced-motion'a saygılı.",
+      "version": "1.0.0",
+      "icon": "campaign",
+      "category": "demo",
+      "tags": [
+        "demo",
+        "footer",
+        "kredi",
+        "rtl"
+      ],
+      "desing": {
+        "href": "https://webyapar.com/temalar#klinik-3",
+        "brand": "Webyapar",
+        "text": {
+          "tr": "Bu demo {brand} tarafından hazırlanmıştır —",
+          "en": "This demo was prepared by {brand} —",
+          "ar": "تم إعداد هذا العرض التجريبي بواسطة {brand} —"
+        },
+        "ctaText": {
+          "tr": "Bu temayı iste",
+          "en": "Get this theme",
+          "ar": "اطلب هذا القالب"
+        },
+        "newTabText": {
+          "tr": "(yeni sekmede açılır)",
+          "en": "(opens in a new tab)",
+          "ar": "(يفتح في علامة تبويب جديدة)"
+        },
+        "ariaLabel": {
+          "tr": "Demo bilgisi",
+          "en": "Demo credit",
+          "ar": "معلومات العرض التجريبي"
+        }
+      },
+      "id": "7no9xi",
+      "path": "demo-kredi",
+      "local": "footer",
+      "data": [],
+      "index": 15
+    },
+    {
+      "name": "Zigzag Özellik",
+      "description": "Görsel-metin sırası satır satır değişen (sol/sağ) özellik anlatımı: numara rozeti, h3, paragraf, mini CTA; görsel kenarında dekoratif çerçeve/gölge. Kaydırmada satırlar sırayla belirir (IntersectionObserver; reduced-motion ya da JS yoksa hep görünür). desing.stil: cerceve | yuzen | sade. RTL'de sıra kendiliğinden aynalanır. Veri: data[] = [{baslik{tr,en,ar}, metin{}, img, alt{}, url, ctaLabel{}?}]. Renkler yalnız token; koyu mod otomatik.",
+      "version": "1.0.0",
+      "icon": "view_agenda",
+      "category": "ozellik",
+      "tags": [
+        "özellik",
+        "zigzag",
+        "features",
+        "görsel-metin",
+        "ar"
+      ],
+      "desing": {
+        "stil": "yuzen",
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 16%, transparent)",
+        "radius": "28px",
+        "numara": false,
+        "eyebrow": {
+          "tr": "Branşlar",
+          "en": "Departments",
+          "ar": "الأقسام"
+        },
+        "title": {
+          "tr": "Önce aile, sonra her yaş",
+          "en": "Family first, then every age",
+          "ar": "الأسرة أولًا ثم كل الأعمار"
+        },
+        "description": {
+          "tr": "Üç ana branşımız; diğer branşlar için Branşlar sayfasına bakın.",
+          "en": "Our three main departments; see the Departments page for the rest.",
+          "ar": "أقسامنا الرئيسية الثلاثة؛ وللبقية انظر صفحة الأقسام."
+        },
+        "ctaLabel": {
+          "tr": "Randevu al",
+          "en": "Book an appointment",
+          "ar": "احجز موعدًا"
+        }
+      },
+      "data": [
+        {
+          "baslik": {
+            "tr": "Çocuk Sağlığı ve Hastalıkları",
+            "en": "Paediatrics",
+            "ar": "طب الأطفال"
+          },
+          "metin": {
+            "tr": "Bebek ve çocuklarda büyüme takibi, aşı takvimi ve enfeksiyon muayeneleri.",
+            "en": "Growth follow-up, vaccination schedule and infection examinations for babies and children.",
+            "ar": "متابعة نمو الرضّع والأطفال، وجدول التطعيمات، وفحوص العدوى."
+          },
+          "img": "/img/klinik-bekleme.webp",
+          "alt": {
+            "tr": "Çocuk bekleme köşesi",
+            "en": "Children’s waiting corner",
+            "ar": "ركن انتظار الأطفال"
+          },
+          "url": "randevu"
+        },
+        {
+          "baslik": {
+            "tr": "Aile Hekimliği",
+            "en": "Family Medicine",
+            "ar": "طب الأسرة"
+          },
+          "metin": {
+            "tr": "Ailenin tüm bireyleri için periyodik kontrol, aşı takvimi ve kronik hastalık takibi.",
+            "en": "Periodic check-ups, vaccination schedule and chronic-condition follow-up for every family member.",
+            "ar": "فحوص دورية وجدول تطعيمات ومتابعة الأمراض المزمنة لجميع أفراد الأسرة."
+          },
+          "img": "/img/klinik-klinik-oda.webp",
+          "alt": {
+            "tr": "Muayene odası",
+            "en": "Examination room",
+            "ar": "غرفة الفحص"
+          },
+          "url": "randevu"
+        },
+        {
+          "baslik": {
+            "tr": "Kadın Hastalıkları ve Doğum",
+            "en": "Obstetrics and Gynaecology",
+            "ar": "أمراض النساء والتوليد"
+          },
+          "metin": {
+            "tr": "Gebelik takibi, jinekolojik muayene ve koruyucu sağlık taramaları.",
+            "en": "Pregnancy follow-up, gynaecological examination and preventive health screening.",
+            "ar": "متابعة الحمل، والفحص النسائي، وفحوص الوقاية الصحية."
+          },
+          "img": "/img/klinik-tedavi-1.webp",
+          "alt": {
+            "tr": "Muayene masası",
+            "en": "Desk set-up",
+            "ar": "طاولة الفحص"
+          },
+          "url": "randevu"
+        }
+      ],
+      "id": "dyrfpq",
+      "path": "ozellik-zigzag",
+      "local": "body",
+      "index": 16
+    },
+    {
+      "name": "Sayaç Şeridi (Stats 2)",
+      "description": "Tam genişlik renkli şerit (bgcolor/textcolor ÇİFT token), 3–5 sayaç: sayılar görünürken yukarı sayar (IntersectionObserver; reduced-motion ya da JS yoksa son değer doğrudan), önek/sonek (+, %, ₺), kısa açıklama, isteğe bağlı CSS desen (noktalar | cizgiler | yok). Sayı biçimi dile göre (Arapçada Latin hane). desing.stil: serit | kartli | ayrik-cizgili. Veri: data[] = [{deger, onek, sonek, ondalik?, etiket{tr,en,ar}, aciklama{}, ikon?}]. Koyu mod paletten; RTL mantıksal CSS.",
+      "version": "1.0.0",
+      "icon": "insights",
+      "category": "stats",
+      "tags": [
+        "istatistik",
+        "sayaç",
+        "stats",
+        "counter",
+        "şerit",
+        "ar"
+      ],
+      "desing": {
+        "stil": "kartli",
+        "desen": "noktalar",
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-primary, #2563eb)",
+        "textcolor": "var(--mx-site-primary-contrast, #ffffff)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-primary-contrast, #ffffff) 90%, var(--mx-site-primary, #2563eb))",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-primary-contrast, #ffffff) 26%, transparent)",
+        "radius": "24px",
+        "sure": 1000,
+        "title": {
+          "tr": "Merkezimiz sayılarla",
+          "en": "Our centre in numbers",
+          "ar": "مركزنا بالأرقام"
+        },
+        "description": {
+          "tr": "",
+          "en": "",
+          "ar": ""
+        }
+      },
+      "data": [
+        {
+          "deger": 8,
+          "onek": "",
+          "sonek": "",
+          "etiket": {
+            "tr": "Hekim ve uzman",
+            "en": "Physicians and specialists",
+            "ar": "أطباء وأخصائيون"
+          },
+          "aciklama": {
+            "tr": "Gerçek unvan ve uzmanlık",
+            "en": "Real titles and specialties",
+            "ar": "ألقاب وتخصصات حقيقية"
+          },
+          "ikon": "medical_services"
+        },
+        {
+          "deger": 8,
+          "onek": "",
+          "sonek": "",
+          "etiket": {
+            "tr": "Branş",
+            "en": "Departments",
+            "ar": "أقسام"
+          },
+          "aciklama": {
+            "tr": "Çocuk ve aile odaklı",
+            "en": "Child and family focused",
+            "ar": "تركيز على الطفل والأسرة"
+          },
+          "ikon": "family_restroom"
+        },
+        {
+          "deger": 2,
+          "onek": "",
+          "sonek": "",
+          "etiket": {
+            "tr": "Bekleme alanı",
+            "en": "Waiting areas",
+            "ar": "منطقتا انتظار"
+          },
+          "aciklama": {
+            "tr": "Biri çocuklara ayrılmış",
+            "en": "One reserved for children",
+            "ar": "إحداهما مخصصة للأطفال"
+          },
+          "ikon": "chair"
+        },
+        {
+          "deger": 6,
+          "onek": "",
+          "sonek": "",
+          "etiket": {
+            "tr": "Gün açık (haftalık)",
+            "en": "Days open per week",
+            "ar": "أيام عمل أسبوعيًا"
+          },
+          "aciklama": {
+            "tr": "Pazar kapalı",
+            "en": "Closed Sunday",
+            "ar": "الأحد مغلق"
+          },
+          "ikon": "calendar_month"
+        }
+      ],
+      "id": "mpc8xd",
+      "path": "stats-2",
+      "local": "body",
+      "index": 17
+    },
+    {
+      "name": "SSS Akordeon 1",
+      "desing": {
+        "max": "900px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "cardbg": "var(--mx-site-surface, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "titlecolor": "var(--mx-site-text, #1b1b1b)",
+        "textcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "badge": {
+          "tr": "SSS",
+          "en": "FAQ",
+          "ar": "الأسئلة الشائعة"
+        },
+        "title": {
+          "tr": "Sıkça sorulan sorular",
+          "en": "Frequently asked questions",
+          "ar": "الأسئلة الشائعة"
+        },
+        "description": {
+          "tr": "Randevu, muayene ve merkezimizle ilgili merak edilenler.",
+          "en": "Common questions about appointments, examinations and our centre.",
+          "ar": "أسئلة متكررة حول المواعيد والفحوص ومركزنا."
+        },
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+      },
+      "data": [
+        {
+          "question": {
+            "tr": "Randevuyu nasıl alabilirim?",
+            "en": "How can I book an appointment?",
+            "ar": "كيف يمكنني حجز موعد؟"
+          },
+          "answer": {
+            "tr": "Randevu sayfasındaki formu doldurabilir ya da merkezimizi arayabilirsiniz. Talebiniz hekim takvimine göre onaylanır.",
+            "en": "You can fill in the form on the appointment page or call our centre. Your request is confirmed according to the physician’s schedule.",
+            "ar": "يمكنك تعبئة النموذج في صفحة المواعيد أو الاتصال بمركزنا، ويُؤكَّد طلبك وفق جدول الطبيب."
+          }
+        },
+        {
+          "question": {
+            "tr": "Muayeneye gelirken yanımda neler getirmeliyim?",
+            "en": "What should I bring to my examination?",
+            "ar": "ماذا ينبغي أن أحضر معي إلى الفحص؟"
+          },
+          "answer": {
+            "tr": "Kimlik belgenizi, varsa daha önceki tahlil ve görüntüleme sonuçlarınızı ve düzenli kullandığınız ilaçların listesini getirmeniz yeterlidir.",
+            "en": "Please bring your ID, any previous test and imaging results, and a list of the medicines you take regularly.",
+            "ar": "يكفي أن تحضر وثيقة هويتك ونتائج التحاليل والتصوير السابقة إن وُجدت، وقائمة بالأدوية التي تتناولها بانتظام."
+          }
+        },
+        {
+          "question": {
+            "tr": "Randevu saatimden ne kadar önce gelmeliyim?",
+            "en": "How early should I arrive?",
+            "ar": "قبل كم من الوقت ينبغي أن أصل؟"
+          },
+          "answer": {
+            "tr": "Kayıt işlemleri için randevu saatinizden yaklaşık 15 dakika önce merkezimizde olmanız önerilir.",
+            "en": "We suggest arriving about 15 minutes before your appointment for registration.",
+            "ar": "يُنصح بالوصول قبل موعدك بنحو 15 دقيقة لإتمام إجراءات التسجيل."
+          }
+        },
+        {
+          "question": {
+            "tr": "Randevumu iptal edebilir veya değiştirebilir miyim?",
+            "en": "Can I cancel or change my appointment?",
+            "ar": "هل يمكنني إلغاء الموعد أو تغييره؟"
+          },
+          "answer": {
+            "tr": "Evet. Telefon veya e-posta ile bildirmeniz yeterlidir; mümkünse bir gün önceden haber vermenizi rica ederiz.",
+            "en": "Yes. Just let us know by phone or e-mail; if possible, please tell us a day in advance.",
+            "ar": "نعم، يكفي إبلاغنا عبر الهاتف أو البريد الإلكتروني، ونرجو إخطارنا قبل يوم واحد إن أمكن."
+          }
+        },
+        {
+          "question": {
+            "tr": "Acil durumlarda ne yapmalıyım?",
+            "en": "What should I do in an emergency?",
+            "ar": "ماذا أفعل في الحالات الطارئة؟"
+          },
+          "answer": {
+            "tr": "Acil durumlarda lütfen 112’yi arayın. Merkezimiz randevu esaslı çalışır ve acil servis hizmeti vermez.",
+            "en": "In an emergency, please call 112. Our centre works by appointment and does not provide emergency-room services.",
+            "ar": "في الحالات الطارئة يُرجى الاتصال بالرقم 112. يعمل مركزنا بالمواعيد ولا يقدّم خدمات الطوارئ."
+          }
+        },
+        {
+          "question": {
+            "tr": "Çocuklar için ayrı bir bekleme alanı var mı?",
+            "en": "Is there a separate waiting area for children?",
+            "ar": "هل توجد منطقة انتظار خاصة بالأطفال؟"
+          },
+          "answer": {
+            "tr": "Evet, çocuk branşı katında oyuncak ve kitap bulunan ayrı bir bekleme köşemiz vardır.",
+            "en": "Yes, the paediatrics floor has a separate waiting corner with toys and books.",
+            "ar": "نعم، يوجد في طابق طب الأطفال ركن انتظار منفصل فيه ألعاب وكتب."
+          }
+        },
+        {
+          "question": {
+            "tr": "Kişisel sağlık verilerim nasıl korunur?",
+            "en": "How is my personal health data protected?",
+            "ar": "كيف تُحمى بياناتي الصحية الشخصية؟"
+          },
+          "answer": {
+            "tr": "Veriler yalnızca muayene ve randevu süreçleri için ve 6698 sayılı Kanun çerçevesinde işlenir. Bu demo sitede formlara yazdığınız bilgiler bir sunucuya gönderilmez.",
+            "en": "Data is processed only for examination and appointment purposes, under Law No. 6698. On this demo site, what you type into forms is not sent to a server.",
+            "ar": "تُعالَج البيانات لأغراض الفحص والمواعيد فقط، وفق القانون التركي رقم 6698. وفي هذا الموقع التجريبي لا تُرسَل المعلومات التي تكتبها في النماذج إلى أي خادم."
+          }
+        },
+        {
+          "question": {
+            "tr": "Engelli bireyler için erişim imkânı var mı?",
+            "en": "Is the centre accessible for people with disabilities?",
+            "ar": "هل المركز مهيأ لذوي الإعاقة؟"
+          },
+          "answer": {
+            "tr": "Evet. Rampa, asansör ve engelli otoparkı bulunur; ayrıntılar Erişilebilirlik sayfasındadır.",
+            "en": "Yes. There is a ramp, a lift and accessible parking; details are on the Accessibility page.",
+            "ar": "نعم، تتوفر منحدرات ومصعد ومواقف مخصصة، وتجد التفاصيل في صفحة إمكانية الوصول."
+          }
+        }
+      ],
+      "category": "faq",
+      "description": "SSS akordeon modülü. Soru-cevap listesini tek seferde bir açık olacak şekilde akordeon düzende gösterir. Çok dilli veri, animasyonlu açılış, mobil uyum ve erişilebilirlik (aria-expanded) desteği içerir.",
+      "version": "1.0.0",
+      "icon": "quiz",
+      "id": "lj06vr",
+      "path": "faq-1",
+      "local": "body",
+      "index": 18
+    },
+    {
+      "name": {
+        "tr": "Hızlı İletişim Kartları",
+        "en": "Quick Contact Cards",
+        "ar": "بطاقات الاتصال السريع"
+      },
+      "description": {
+        "tr": "3–4 hızlı eylem kartı: Ara (tel:), WhatsApp (wa.me hazır mesaj), E-posta (mailto:), Yol tarifi (harita bağlantısı). Her kart ikon + başlık + değer + eylem düğmesi; hover'da yükselir. Veri boş olan kart basılmaz; phone/email boşsa setting'den. Üç varyant (desing.stil): kartli · ikon-serit · dikey-liste. Üç dil, RTL, koyu mod token'larla.",
+        "en": "3–4 quick action cards: Call (tel:), WhatsApp (wa.me prefilled), E-mail (mailto:), Directions (map link). Each card has icon + title + value + action button; lifts on hover. Cards without data are omitted; phone/email fall back to setting. Three variants (desing.stil): kartli · ikon-serit · dikey-liste. Three languages, RTL, dark mode via tokens.",
+        "ar": "3–4 بطاقات إجراء سريع: اتصال (tel:)، واتساب (رسالة جاهزة)، بريد إلكتروني (mailto:)، الاتجاهات (رابط خريطة). كل بطاقة: أيقونة + عنوان + قيمة + زر. البطاقات بلا بيانات لا تُعرض. ثلاثة أنماط، ثلاث لغات، RTL، وضع داكن."
+      },
+      "version": "1.0.0",
+      "icon": "contact_phone",
+      "category": "contact",
+      "tags": [
+        "iletisim",
+        "contact",
+        "whatsapp",
+        "telefon",
+        "harita",
+        "ar"
+      ],
+      "desing": {
+        "max": "1200px",
+        "stil": "kartli",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 16%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "radius": "24px",
+        "title": {
+          "tr": "Bize ulaşın",
+          "en": "Contact us",
+          "ar": "تواصل معنا"
+        },
+        "description": {
+          "tr": "Arayın, yazın ya da yol tarifi alın.",
+          "en": "Call, message or get directions.",
+          "ar": "اتصل أو راسلنا أو احصل على الاتجاهات."
+        },
+        "phone": "+90 342 000 00 12",
+        "whatsapp": "903420000012",
+        "email": "randevu@maviyonca.example",
+        "address": {
+          "tr": "Güneş Mah. Yonca Cd. No: 9, Şahinbey, Gaziantep (kurgusal adres)",
+          "en": "9 Yonca Avenue, Gunes District, Sahinbey, Gaziantep (fictional address)",
+          "ar": "حي غونش، شارع يونجا رقم 9، شاهين بي، غازي عنتاب (عنوان افتراضي)"
+        },
+        "mapsUrl": "",
+        "waMessage": {
+          "tr": "Merhaba, randevu almak istiyorum.",
+          "en": "Hello, I would like to book an appointment.",
+          "ar": "مرحبًا، أود حجز موعد."
+        },
+        "callTitle": {
+          "tr": "Bizi Arayın",
+          "en": "Call Us",
+          "ar": "اتصل بنا"
+        },
+        "callText": {
+          "tr": "Hafta içi 09:00 – 18:00",
+          "en": "Weekdays 09:00 – 18:00",
+          "ar": "أيام الأسبوع 09:00 – 18:00"
+        },
+        "callBtn": {
+          "tr": "Ara",
+          "en": "Call",
+          "ar": "اتصال"
+        },
+        "waTitle": {
+          "tr": "WhatsApp",
+          "en": "WhatsApp",
+          "ar": "واتساب"
+        },
+        "waText": {
+          "tr": "Hızlı yanıt için yazın",
+          "en": "Message us for a quick reply",
+          "ar": "راسلنا للحصول على رد سريع"
+        },
+        "waBtn": {
+          "tr": "Mesaj gönder",
+          "en": "Send message",
+          "ar": "إرسال رسالة"
+        },
+        "mailTitle": {
+          "tr": "E-posta",
+          "en": "E-mail",
+          "ar": "البريد الإلكتروني"
+        },
+        "mailText": {
+          "tr": "Teklif ve detaylı sorular için",
+          "en": "For quotes and detailed questions",
+          "ar": "لعروض الأسعار والأسئلة التفصيلية"
+        },
+        "mailBtn": {
+          "tr": "E-posta gönder",
+          "en": "Send e-mail",
+          "ar": "إرسال بريد"
+        },
+        "mapTitle": {
+          "tr": "Yol Tarifi",
+          "en": "Directions",
+          "ar": "الاتجاهات"
+        },
+        "mapBtn": {
+          "tr": "Haritada aç",
+          "en": "Open in maps",
+          "ar": "فتح في الخرائط"
+        },
+        "groupLabel": {
+          "tr": "Hızlı iletişim kanalları",
+          "en": "Quick contact channels",
+          "ar": "قنوات الاتصال السريع"
+        }
+      },
+      "data": [],
+      "id": "wqbxgl",
+      "path": "iletisim-kartlari",
+      "local": "body",
+      "index": 19
+    },
+    {
+      "name": "CTA Şerit 1",
+      "desing": {
+        "stil": "gradient",
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, color-mix(in srgb, var(--mx-site-primary, #2563eb) 42%, #000), color-mix(in srgb, var(--mx-site-primary, #2563eb) 24%, #000))",
+        "btnbg": "#ffffff",
+        "btncolor": "#10203A",
+        "title": {
+          "tr": "Muayene için randevunuzu oluşturun",
+          "en": "Make your examination appointment",
+          "ar": "احجز موعد الفحص الآن"
+        },
+        "description": {
+          "tr": "Randevu talepleri hekim takvimine göre onaylanır; onay bilgisi telefon veya e-posta ile iletilir. Acil durumlarda lütfen 112’yi arayın.",
+          "en": "Appointment requests are confirmed according to the physician’s schedule, and confirmation is sent by phone or e-mail. In an emergency, please call 112.",
+          "ar": "تُؤكَّد طلبات المواعيد وفق جدول الطبيب، وتُرسَل معلومات التأكيد عبر الهاتف أو البريد الإلكتروني. وفي الحالات الطارئة يُرجى الاتصال بالرقم 112."
+        },
+        "btn1Text": {
+          "tr": "Randevu al",
+          "en": "Book an appointment",
+          "ar": "احجز موعدًا"
+        },
+        "btn1Url": "randevu",
+        "btn2Text": {
+          "tr": "Hekimlerimiz",
+          "en": "Our physicians",
+          "ar": "أطباؤنا"
+        },
+        "btn2Url": "hekimlerimiz"
+      },
+      "category": "cta",
+      "description": "Harekete geçirici çağrı (CTA) şerit modülü. Gradient arka plan üzerinde başlık, açıklama ve iki buton gösterir. Buton URL'leri dil öneki olmadan pathnext (iletisim, urunler) — site routing ekler. Çok dilli metin ve animasyonlu giriş içerir. Görsel varyant desing.stil (31 Eki 2026): \"\" klasik (gradient anahtarı tam genişlik bant, bugünkü görünüm) · \"gradient\" (token gradient primary→koyu, yuvarlak köşeli iç bant, ortalı yığın, ışık daireleri, hap düğmeler) · \"kart-yuzen\" (sayfa zemininde yüzen yüzey kartı, dekoratif primary daireler, sol vurgu çizgisi). Varyant renkleri yalnız var(--mx-site-*) token çiftleri.",
+      "version": "1.2.0",
+      "icon": "campaign",
+      "id": "u5ofgf",
+      "path": "cta-1",
+      "local": "body",
+      "data": [],
+      "index": 20
+    },
+    {
+      "name": {
+        "tr": "Ekip 2 — Zengin kartlar",
+        "en": "Team 2 — Rich cards",
+        "ar": "الفريق 2 — بطاقات غنية"
+      },
+      "description": {
+        "tr": "Ekip kartları: fotoğraf (hover'da ikinci görsel ya da sosyal ikonlar belirir — desing.hover), ad, unvan, kısa bio; bölüm çipleriyle filtre (mx-filtre.js varsa onu, yoksa yerel filtre kullanır; ?dept= URL durumu); «tüm ekip» CTA. Üç varyant (desing.stil): kartli · yuvarlak (daire fotoğraf, ortalı) · yatay-liste (fotoğraf sol, bio sağ). data[] = {name, role{}, bio{}, img, img2, dept, social[]}. Üç dil, RTL, koyu mod token'larla.",
+        "en": "Team cards: photo (second image or social icons appear on hover — desing.hover), name, role, short bio; department chip filter (uses mx-filtre.js when available, otherwise a local filter; ?dept= URL state); «whole team» CTA. Three variants (desing.stil): kartli · yuvarlak (round photo, centred) · yatay-liste (photo left, bio right). data[] = {name, role{}, bio{}, img, img2, dept, social[]}. Three languages, RTL, dark mode via tokens.",
+        "ar": "بطاقات الفريق: صورة (تظهر صورة ثانية أو أيقونات التواصل عند التمرير)، الاسم، المسمّى، نبذة قصيرة؛ تصفية بشرائح الأقسام؛ زر «كل الفريق». ثلاثة أنماط: بطاقات · دائري · قائمة أفقية. ثلاث لغات، RTL، وضع داكن."
+      },
+      "version": "1.0.0",
+      "icon": "groups",
+      "category": "team",
+      "tags": [
+        "ekip",
+        "team",
+        "kadro",
+        "filtre",
+        "ar"
+      ],
+      "desing": {
+        "max": "1200px",
+        "stil": "yuvarlak",
+        "hover": "sosyal",
+        "filter": false,
+        "urlPrefix": "",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 70%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 14%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "radius": "999px",
+        "title": {
+          "tr": "Hekimlerimiz",
+          "en": "Our physicians",
+          "ar": "أطباؤنا"
+        },
+        "description": {
+          "tr": "Hekim bilgileri örnek amaçlıdır (kurgusal); unvan ve uzmanlık alanları gerçek tıp terimleriyle verilmiştir. Fotoğraf yerine baş harf kullanılır.",
+          "en": "Physician details are fictional samples; titles and specialties use real medical terminology. Initials are shown instead of photographs.",
+          "ar": "معلومات الأطباء افتراضية لأغراض العرض؛ والألقاب والتخصصات مذكورة بمصطلحات طبية حقيقية. تُعرض الأحرف الأولى بدل الصور."
+        },
+        "filterLabel": {
+          "tr": "Bölüme göre filtrele",
+          "en": "Filter by department",
+          "ar": "التصفية حسب القسم"
+        },
+        "allLabel": {
+          "tr": "Tümü",
+          "en": "All",
+          "ar": "الكل"
+        },
+        "ctaText": {
+          "tr": "Randevu al",
+          "en": "Book an appointment",
+          "ar": "احجز موعدًا"
+        },
+        "ctaHref": "randevu",
+        "socialLabel": {
+          "tr": "{ad} — sosyal bağlantılar",
+          "en": "{ad} — social links",
+          "ar": "{ad} — روابط التواصل"
+        },
+        "emptyText": {
+          "tr": "Bu bölümde gösterilecek kişi yok.",
+          "en": "No people to show in this department.",
+          "ar": "لا يوجد أشخاص لعرضهم في هذا القسم."
+        },
+        "departments": []
+      },
+      "data": [
+        {
+          "name": {
+            "tr": "Uzm. Dr. Aylin Mert",
+            "en": "Dr. Aylin Mert",
+            "ar": "د. آيلين مرت"
+          },
+          "role": {
+            "tr": "Çocuk Sağlığı ve Hastalıkları uzmanı",
+            "en": "Specialist in Paediatrics",
+            "ar": "أخصائية طب الأطفال"
+          },
+          "bio": {
+            "tr": "Randevu ile muayene; süreç hekim tarafından anlatılır.",
+            "en": "Examination by appointment; the process is explained by the physician.",
+            "ar": "الفحص بموعد مسبق؛ ويشرح الطبيب الإجراءات."
+          },
+          "img": "",
+          "social": []
+        },
+        {
+          "name": {
+            "tr": "Uzm. Dr. Cem Ulu",
+            "en": "Dr. Cem Ulu",
+            "ar": "د. جم أولو"
+          },
+          "role": {
+            "tr": "Aile Hekimliği uzmanı",
+            "en": "Specialist in Family Medicine",
+            "ar": "أخصائي طب الأسرة"
+          },
+          "bio": {
+            "tr": "Randevu ile muayene; süreç hekim tarafından anlatılır.",
+            "en": "Examination by appointment; the process is explained by the physician.",
+            "ar": "الفحص بموعد مسبق؛ ويشرح الطبيب الإجراءات."
+          },
+          "img": "",
+          "social": []
+        },
+        {
+          "name": {
+            "tr": "Uzm. Dr. Sibel Ak",
+            "en": "Dr. Sibel Ak",
+            "ar": "د. سيبل آك"
+          },
+          "role": {
+            "tr": "Kadın Hastalıkları ve Doğum uzmanı",
+            "en": "Specialist in Obstetrics and Gynaecology",
+            "ar": "أخصائية أمراض النساء والتوليد"
+          },
+          "bio": {
+            "tr": "Randevu ile muayene; süreç hekim tarafından anlatılır.",
+            "en": "Examination by appointment; the process is explained by the physician.",
+            "ar": "الفحص بموعد مسبق؛ ويشرح الطبيب الإجراءات."
+          },
+          "img": "",
+          "social": []
+        },
+        {
+          "name": {
+            "tr": "Uzm. Dr. Rıza Gün",
+            "en": "Dr. Riza Gun",
+            "ar": "د. رضا غون"
+          },
+          "role": {
+            "tr": "Dahiliye (İç Hastalıkları) uzmanı",
+            "en": "Specialist in Internal Medicine",
+            "ar": "أخصائي الطب الباطني"
+          },
+          "bio": {
+            "tr": "Randevu ile muayene; süreç hekim tarafından anlatılır.",
+            "en": "Examination by appointment; the process is explained by the physician.",
+            "ar": "الفحص بموعد مسبق؛ ويشرح الطبيب الإجراءات."
+          },
+          "img": "",
+          "social": []
+        },
+        {
+          "name": {
+            "tr": "Uzm. Dr. Nil Soy",
+            "en": "Dr. Nil Soy",
+            "ar": "د. نيل سوي"
+          },
+          "role": {
+            "tr": "Göz Hastalıkları uzmanı",
+            "en": "Specialist in Ophthalmology",
+            "ar": "أخصائية طب العيون"
+          },
+          "bio": {
+            "tr": "Randevu ile muayene; süreç hekim tarafından anlatılır.",
+            "en": "Examination by appointment; the process is explained by the physician.",
+            "ar": "الفحص بموعد مسبق؛ ويشرح الطبيب الإجراءات."
+          },
+          "img": "",
+          "social": []
+        },
+        {
+          "name": {
+            "tr": "Uzm. Dr. Efe Kurt",
+            "en": "Dr. Efe Kurt",
+            "ar": "د. إفه كورت"
+          },
+          "role": {
+            "tr": "Ortopedi ve Travmatoloji uzmanı",
+            "en": "Specialist in Orthopaedics and Traumatology",
+            "ar": "أخصائي جراحة العظام والإصابات"
+          },
+          "bio": {
+            "tr": "Randevu ile muayene; süreç hekim tarafından anlatılır.",
+            "en": "Examination by appointment; the process is explained by the physician.",
+            "ar": "الفحص بموعد مسبق؛ ويشرح الطبيب الإجراءات."
+          },
+          "img": "",
+          "social": []
+        },
+        {
+          "name": {
+            "tr": "Dyt. Ceren Öz",
+            "en": "Ceren Oz, Dietitian",
+            "ar": "الأخصائية جيرين أوز"
+          },
+          "role": {
+            "tr": "Diyetisyen",
+            "en": "Dietitian",
+            "ar": "أخصائية التغذية"
+          },
+          "bio": {
+            "tr": "Randevu ile muayene; süreç hekim tarafından anlatılır.",
+            "en": "Examination by appointment; the process is explained by the physician.",
+            "ar": "الفحص بموعد مسبق؛ ويشرح الطبيب الإجراءات."
+          },
+          "img": "",
+          "social": []
+        },
+        {
+          "name": {
+            "tr": "Fzt. Kaan Er",
+            "en": "Kaan Er, Physiotherapist",
+            "ar": "الأخصائي كان إر"
+          },
+          "role": {
+            "tr": "Fizyoterapist",
+            "en": "Physiotherapist",
+            "ar": "أخصائي العلاج الطبيعي"
+          },
+          "bio": {
+            "tr": "Randevu ile muayene; süreç hekim tarafından anlatılır.",
+            "en": "Examination by appointment; the process is explained by the physician.",
+            "ar": "الفحص بموعد مسبق؛ ويشرح الطبيب الإجراءات."
+          },
+          "img": "",
+          "social": []
+        }
+      ],
+      "id": "yfew77",
+      "path": "team-2",
+      "local": "body",
+      "index": 21
+    },
+    {
+      "name": "Sekmeli Hizmetler",
+      "description": "Hizmet anlatımı sekmelerle: sol/üst sekme listesi (ikon + ad), seçili hizmetin görseli + açıklama + madde listesi + CTA. Mobilde akordeon. ARIA tabs kalıbı (ok tuşları, Home/End, RTL'de yön ters). desing.stil: dikey | yatay-ust | kart-gecis. Veri: data[] = [{ikon, ad{tr,en,ar}, ozet{}, maddeler[{}], img, alt{}, url}]. Renkler yalnız token (var(--mx-site-*)); koyu mod otomatik. Üç dil + RTL.",
+      "version": "1.0.0",
+      "icon": "view_sidebar",
+      "category": "hizmet",
+      "tags": [
+        "hizmet",
+        "sekme",
+        "tabs",
+        "akordeon",
+        "services",
+        "ar"
+      ],
+      "desing": {
+        "stil": "kart-gecis",
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 16%, transparent)",
+        "radius": "24px",
+        "eyebrow": {
+          "tr": "Branşlar ve tedaviler",
+          "en": "Departments and treatments",
+          "ar": "الأقسام والعلاجات"
+        },
+        "title": {
+          "tr": "Hangi branşlarda hizmet veriyoruz?",
+          "en": "Which departments do we cover?",
+          "ar": "ما الأقسام التي نخدم فيها؟"
+        },
+        "description": {
+          "tr": "Her branşta muayene, gerekli tetkikler ve takip planı hekim tarafından belirlenir.",
+          "en": "In every department the examination, required tests and follow-up plan are determined by the physician.",
+          "ar": "في كل قسم يحدّد الطبيب الفحص والتحاليل اللازمة وخطة المتابعة."
+        },
+        "ctaLabel": {
+          "tr": "Randevu al",
+          "en": "Book an appointment",
+          "ar": "احجز موعدًا"
+        },
+        "tabsLabel": {
+          "tr": "Hizmet sekmeleri",
+          "en": "Service tabs",
+          "ar": "تبويبات الخدمات"
+        },
+        "featuresLabel": {
+          "tr": "Süreç",
+          "en": "Process",
+          "ar": "الإجراءات"
+        }
+      },
+      "data": [
+        {
+          "ikon": "stethoscope",
+          "ad": {
+            "tr": "Dahiliye (İç Hastalıkları)",
+            "en": "Internal Medicine",
+            "ar": "الطب الباطني"
+          },
+          "ozet": {
+            "tr": "Erişkinlerde genel sağlık değerlendirmesi, kronik hastalık takibi ve düzenli kontrol planlaması.",
+            "en": "General health assessment for adults, follow-up of chronic conditions and routine check-up planning.",
+            "ar": "تقييم الصحة العامة لدى البالغين، ومتابعة الأمراض المزمنة، وتخطيط الفحوص الدورية."
+          },
+          "maddeler": [
+            {
+              "tr": "Hekim muayenesi",
+              "en": "Physician examination",
+              "ar": "فحص الطبيب"
+            },
+            {
+              "tr": "Gerekli tetkik planı",
+              "en": "Required test plan",
+              "ar": "خطة الفحوص اللازمة"
+            },
+            {
+              "tr": "Takip randevusu",
+              "en": "Follow-up appointment",
+              "ar": "موعد المتابعة"
+            }
+          ],
+          "img": "",
+          "alt": {
+            "tr": "Dahiliye (İç Hastalıkları)",
+            "en": "Internal Medicine",
+            "ar": "الطب الباطني"
+          },
+          "url": "randevu"
+        },
+        {
+          "ikon": "ecg_heart",
+          "ad": {
+            "tr": "Kardiyoloji",
+            "en": "Cardiology",
+            "ar": "أمراض القلب"
+          },
+          "ozet": {
+            "tr": "Kalp ve damar sağlığı muayenesi, EKG, efor testi ve ritim izlemi.",
+            "en": "Heart and vascular examination, ECG, stress testing and rhythm monitoring.",
+            "ar": "فحص القلب والأوعية الدموية، وتخطيط القلب، واختبار الجهد، ومراقبة نظم القلب."
+          },
+          "maddeler": [
+            {
+              "tr": "Hekim muayenesi",
+              "en": "Physician examination",
+              "ar": "فحص الطبيب"
+            },
+            {
+              "tr": "Gerekli tetkik planı",
+              "en": "Required test plan",
+              "ar": "خطة الفحوص اللازمة"
+            },
+            {
+              "tr": "Takip randevusu",
+              "en": "Follow-up appointment",
+              "ar": "موعد المتابعة"
+            }
+          ],
+          "img": "",
+          "alt": {
+            "tr": "Kardiyoloji",
+            "en": "Cardiology",
+            "ar": "أمراض القلب"
+          },
+          "url": "randevu"
+        },
+        {
+          "ikon": "child_care",
+          "ad": {
+            "tr": "Çocuk Sağlığı ve Hastalıkları",
+            "en": "Paediatrics",
+            "ar": "طب الأطفال"
+          },
+          "ozet": {
+            "tr": "Bebek ve çocuklarda büyüme takibi, aşı takvimi ve enfeksiyon muayeneleri.",
+            "en": "Growth follow-up, vaccination schedule and infection examinations for babies and children.",
+            "ar": "متابعة نمو الرضّع والأطفال، وجدول التطعيمات، وفحوص العدوى."
+          },
+          "maddeler": [
+            {
+              "tr": "Hekim muayenesi",
+              "en": "Physician examination",
+              "ar": "فحص الطبيب"
+            },
+            {
+              "tr": "Gerekli tetkik planı",
+              "en": "Required test plan",
+              "ar": "خطة الفحوص اللازمة"
+            },
+            {
+              "tr": "Takip randevusu",
+              "en": "Follow-up appointment",
+              "ar": "موعد المتابعة"
+            }
+          ],
+          "img": "",
+          "alt": {
+            "tr": "Çocuk Sağlığı ve Hastalıkları",
+            "en": "Paediatrics",
+            "ar": "طب الأطفال"
+          },
+          "url": "randevu"
+        },
+        {
+          "ikon": "pregnant_woman",
+          "ad": {
+            "tr": "Kadın Hastalıkları ve Doğum",
+            "en": "Obstetrics and Gynaecology",
+            "ar": "أمراض النساء والتوليد"
+          },
+          "ozet": {
+            "tr": "Gebelik takibi, jinekolojik muayene ve koruyucu sağlık taramaları.",
+            "en": "Pregnancy follow-up, gynaecological examination and preventive health screening.",
+            "ar": "متابعة الحمل، والفحص النسائي، وفحوص الوقاية الصحية."
+          },
+          "maddeler": [
+            {
+              "tr": "Hekim muayenesi",
+              "en": "Physician examination",
+              "ar": "فحص الطبيب"
+            },
+            {
+              "tr": "Gerekli tetkik planı",
+              "en": "Required test plan",
+              "ar": "خطة الفحوص اللازمة"
+            },
+            {
+              "tr": "Takip randevusu",
+              "en": "Follow-up appointment",
+              "ar": "موعد المتابعة"
+            }
+          ],
+          "img": "",
+          "alt": {
+            "tr": "Kadın Hastalıkları ve Doğum",
+            "en": "Obstetrics and Gynaecology",
+            "ar": "أمراض النساء والتوليد"
+          },
+          "url": "randevu"
+        },
+        {
+          "ikon": "accessibility_new",
+          "ad": {
+            "tr": "Ortopedi ve Travmatoloji",
+            "en": "Orthopaedics and Traumatology",
+            "ar": "جراحة العظام والإصابات"
+          },
+          "ozet": {
+            "tr": "Kas-iskelet sistemi şikâyetleri, spor yaralanmaları, kırık ve çıkık takibi.",
+            "en": "Musculoskeletal complaints, sports injuries, and follow-up of fractures and dislocations.",
+            "ar": "شكاوى الجهاز العضلي الهيكلي، وإصابات الرياضة، ومتابعة الكسور والخلع."
+          },
+          "maddeler": [
+            {
+              "tr": "Hekim muayenesi",
+              "en": "Physician examination",
+              "ar": "فحص الطبيب"
+            },
+            {
+              "tr": "Gerekli tetkik planı",
+              "en": "Required test plan",
+              "ar": "خطة الفحوص اللازمة"
+            },
+            {
+              "tr": "Takip randevusu",
+              "en": "Follow-up appointment",
+              "ar": "موعد المتابعة"
+            }
+          ],
+          "img": "",
+          "alt": {
+            "tr": "Ortopedi ve Travmatoloji",
+            "en": "Orthopaedics and Traumatology",
+            "ar": "جراحة العظام والإصابات"
+          },
+          "url": "randevu"
+        },
+        {
+          "ikon": "visibility",
+          "ad": {
+            "tr": "Göz Hastalıkları",
+            "en": "Ophthalmology",
+            "ar": "طب العيون"
+          },
+          "ozet": {
+            "tr": "Görme muayenesi, göz tansiyonu ölçümü ve göz dibi değerlendirmesi.",
+            "en": "Vision examination, eye pressure measurement and retinal assessment.",
+            "ar": "فحص النظر، وقياس ضغط العين، وتقييم قاع العين."
+          },
+          "maddeler": [
+            {
+              "tr": "Hekim muayenesi",
+              "en": "Physician examination",
+              "ar": "فحص الطبيب"
+            },
+            {
+              "tr": "Gerekli tetkik planı",
+              "en": "Required test plan",
+              "ar": "خطة الفحوص اللازمة"
+            },
+            {
+              "tr": "Takip randevusu",
+              "en": "Follow-up appointment",
+              "ar": "موعد المتابعة"
+            }
+          ],
+          "img": "",
+          "alt": {
+            "tr": "Göz Hastalıkları",
+            "en": "Ophthalmology",
+            "ar": "طب العيون"
+          },
+          "url": "randevu"
+        },
+        {
+          "ikon": "neurology",
+          "ad": {
+            "tr": "Nöroloji",
+            "en": "Neurology",
+            "ar": "طب الأعصاب"
+          },
+          "ozet": {
+            "tr": "Baş ağrısı, baş dönmesi ve sinir sistemi şikâyetlerinin değerlendirilmesi.",
+            "en": "Assessment of headache, dizziness and nervous-system complaints.",
+            "ar": "تقييم الصداع والدوار وشكاوى الجهاز العصبي."
+          },
+          "maddeler": [
+            {
+              "tr": "Hekim muayenesi",
+              "en": "Physician examination",
+              "ar": "فحص الطبيب"
+            },
+            {
+              "tr": "Gerekli tetkik planı",
+              "en": "Required test plan",
+              "ar": "خطة الفحوص اللازمة"
+            },
+            {
+              "tr": "Takip randevusu",
+              "en": "Follow-up appointment",
+              "ar": "موعد المتابعة"
+            }
+          ],
+          "img": "",
+          "alt": {
+            "tr": "Nöroloji",
+            "en": "Neurology",
+            "ar": "طب الأعصاب"
+          },
+          "url": "randevu"
+        },
+        {
+          "ikon": "physical_therapy",
+          "ad": {
+            "tr": "Fizik Tedavi ve Rehabilitasyon",
+            "en": "Physical Therapy and Rehabilitation",
+            "ar": "العلاج الطبيعي والتأهيل"
+          },
+          "ozet": {
+            "tr": "Hekim değerlendirmesinin ardından planlanan egzersiz ve rehabilitasyon programları.",
+            "en": "Exercise and rehabilitation programmes planned after the physician’s assessment.",
+            "ar": "برامج التمارين والتأهيل التي تُخطَّط بعد تقييم الطبيب."
+          },
+          "maddeler": [
+            {
+              "tr": "Hekim muayenesi",
+              "en": "Physician examination",
+              "ar": "فحص الطبيب"
+            },
+            {
+              "tr": "Gerekli tetkik planı",
+              "en": "Required test plan",
+              "ar": "خطة الفحوص اللازمة"
+            },
+            {
+              "tr": "Takip randevusu",
+              "en": "Follow-up appointment",
+              "ar": "موعد المتابعة"
+            }
+          ],
+          "img": "",
+          "alt": {
+            "tr": "Fizik Tedavi ve Rehabilitasyon",
+            "en": "Physical Therapy and Rehabilitation",
+            "ar": "العلاج الطبيعي والتأهيل"
+          },
+          "url": "randevu"
+        },
+        {
+          "ikon": "lab_research",
+          "ad": {
+            "tr": "Laboratuvar ve Görüntüleme",
+            "en": "Laboratory and Imaging",
+            "ar": "المختبر والتصوير"
+          },
+          "ozet": {
+            "tr": "Kan ve idrar tahlilleri; ultrasonografi ve röntgen hizmetleri.",
+            "en": "Blood and urine tests; ultrasound and X-ray services.",
+            "ar": "تحاليل الدم والبول، وخدمات الموجات فوق الصوتية والأشعة السينية."
+          },
+          "maddeler": [
+            {
+              "tr": "Hekim muayenesi",
+              "en": "Physician examination",
+              "ar": "فحص الطبيب"
+            },
+            {
+              "tr": "Gerekli tetkik planı",
+              "en": "Required test plan",
+              "ar": "خطة الفحوص اللازمة"
+            },
+            {
+              "tr": "Takip randevusu",
+              "en": "Follow-up appointment",
+              "ar": "موعد المتابعة"
+            }
+          ],
+          "img": "",
+          "alt": {
+            "tr": "Laboratuvar ve Görüntüleme",
+            "en": "Laboratory and Imaging",
+            "ar": "المختبر والتصوير"
+          },
+          "url": "randevu"
+        }
+      ],
+      "id": "91730m",
+      "path": "hizmet-sekmeli",
+      "local": "body",
+      "index": 22
+    },
+    {
+      "name": "Süreç Adımları",
+      "description": "3–6 adımlık süreç anlatımı: çizgi/ok ile bağlı daire numaralar, altında başlık + metin. Aktif adım vurgusu kaydırmayla ilerler (IntersectionObserver; JS yoksa tüm adımlar düz görünür). desing.stil: yatay (çizgiyle bağlı sıra; mobilde dikey zaman çizgisi) | dikey (iki yanlı zaman çizgisi) | kartli (kart + ok ayraç). Veri: data[] = [{no?, baslik{tr,en,ar}, metin{}, ikon?}]. Renkler yalnız token; koyu mod otomatik; RTL'de ok/çizgi yönü aynalanır.",
+      "version": "1.0.0",
+      "icon": "timeline",
+      "category": "surec",
+      "tags": [
+        "süreç",
+        "adım",
+        "zaman çizgisi",
+        "process",
+        "steps",
+        "ar"
+      ],
+      "desing": {
+        "stil": "dikey",
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 16%, transparent)",
+        "radius": "24px",
+        "eyebrow": {
+          "tr": "Süreç",
+          "en": "Process",
+          "ar": "الإجراءات"
+        },
+        "title": {
+          "tr": "Randevudan muayeneye",
+          "en": "From appointment to examination",
+          "ar": "من الموعد إلى الفحص"
+        },
+        "description": {
+          "tr": "Dört adımda planlı bir ziyaret.",
+          "en": "A planned visit in four steps.",
+          "ar": "زيارة منظَّمة في أربع خطوات."
+        },
+        "stepLabel": {
+          "tr": "Adım {n}",
+          "en": "Step {n}",
+          "ar": "الخطوة {n}"
+        },
+        "listLabel": {
+          "tr": "Süreç adımları",
+          "en": "Process steps",
+          "ar": "خطوات العملية"
+        }
+      },
+      "data": [
+        {
+          "baslik": {
+            "tr": "Randevu talebi",
+            "en": "Appointment request",
+            "ar": "طلب الموعد"
+          },
+          "metin": {
+            "tr": "Formu doldurun ya da bizi arayın.",
+            "en": "Fill in the form or call us.",
+            "ar": "املأ النموذج أو اتصل بنا."
+          },
+          "ikon": "edit_calendar"
+        },
+        {
+          "baslik": {
+            "tr": "Onay",
+            "en": "Confirmation",
+            "ar": "التأكيد"
+          },
+          "metin": {
+            "tr": "Talebiniz hekim takvimine göre onaylanır.",
+            "en": "Your request is confirmed according to the physician’s schedule.",
+            "ar": "يُؤكَّد طلبك وفق جدول الطبيب."
+          },
+          "ikon": "task_alt"
+        },
+        {
+          "baslik": {
+            "tr": "Kayıt",
+            "en": "Registration",
+            "ar": "التسجيل"
+          },
+          "metin": {
+            "tr": "Randevudan yaklaşık 15 dakika önce kayıt yaptırın.",
+            "en": "Register about 15 minutes before your appointment.",
+            "ar": "سجّل قبل موعدك بنحو 15 دقيقة."
+          },
+          "ikon": "badge"
+        },
+        {
+          "baslik": {
+            "tr": "Muayene",
+            "en": "Examination",
+            "ar": "الفحص"
+          },
+          "metin": {
+            "tr": "Hekiminiz sizi dinler, muayene eder ve süreci anlatır.",
+            "en": "Your physician listens, examines and explains the next steps.",
+            "ar": "يستمع إليك طبيبك ويفحصك ويشرح لك الخطوات التالية."
+          },
+          "ikon": "stethoscope"
+        }
+      ],
+      "id": "x0gezz",
+      "path": "surec-adimlar",
+      "local": "body",
+      "index": 23
+    },
+    {
+      "name": "Randevu / Rezervasyon Formu",
+      "description": "Statik randevu ve rezervasyon sihirbazı (30 Eki 2026): hizmet → uzman → tarih → saat → bilgi → onay; masa kipi (kişi sayısı + bölüm) ve gösterim kipi. Sunucusuz: gönderim WhatsApp hazır mesaj, mailto veya .ics dosyası. Kendi takvimi (Pazartesi/Cumartesi hafta başı, kapalı günler, mola, bekleme günü), üç dil (tr/en/ar, RTL), KVKK onayı, demo kipinde tarayıcıda 'randevularım' listesi.",
+      "version": "1.0.0",
+      "icon": "event_available",
+      "category": "randevu",
+      "tags": [
+        "randevu",
+        "rezervasyon",
+        "takvim",
+        "form",
+        "whatsapp",
+        "ics"
+      ],
+      "desing": {
+        "max": "960px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "errcolor": "color-mix(in srgb, #c81e1e 72%, var(--mx-site-text, #1b1b1b))",
+        "mode": "randevu",
+        "submit": "whatsapp",
+        "demo": true,
+        "weekStart": "auto",
+        "leadDays": 1,
+        "maxDays": 45,
+        "maxPartySize": 8,
+        "masaDuration": 90,
+        "requireEmail": false,
+        "phone": "+90 342 000 00 12",
+        "email": "randevu@maviyonca.example",
+        "location": {
+          "tr": "Güneş Mah. Yonca Cd. No: 9, Şahinbey, Gaziantep (kurgusal adres)",
+          "en": "9 Yonca Avenue, Gunes District, Sahinbey, Gaziantep (fictional address)",
+          "ar": "حي غونش، شارع يونجا رقم 9، شاهين بي، غازي عنتاب (عنوان افتراضي)"
+        },
+        "badge": {
+          "tr": "Randevu",
+          "en": "Appointment",
+          "ar": "موعد"
+        },
+        "title": {
+          "tr": "Aileniz için randevu",
+          "en": "An appointment for your family",
+          "ar": "موعد لعائلتك"
+        },
+        "description": {
+          "tr": "Randevu talepleri hekim takvimine göre onaylanır; onay bilgisi telefon veya e-posta ile iletilir. Acil durumlarda lütfen 112’yi arayın.",
+          "en": "Appointment requests are confirmed according to the physician’s schedule, and confirmation is sent by phone or e-mail. In an emergency, please call 112.",
+          "ar": "تُؤكَّد طلبات المواعيد وفق جدول الطبيب، وتُرسَل معلومات التأكيد عبر الهاتف أو البريد الإلكتروني. وفي الحالات الطارئة يُرجى الاتصال بالرقم 112."
+        },
+        "noscript": {
+          "tr": "Randevu formunu kullanmak için tarayıcınızda JavaScript açık olmalıdır. Bunun yerine bizi arayabilirsiniz.",
+          "en": "JavaScript must be enabled in your browser to use the booking form. You can call us instead.",
+          "ar": "يجب تفعيل JavaScript في المتصفح لاستخدام نموذج الحجز. يمكنك الاتصال بنا بدلًا من ذلك."
+        },
+        "services": [
+          {
+            "id": "s1",
+            "name": {
+              "tr": "Dahiliye muayenesi",
+              "en": "Internal medicine examination",
+              "ar": "فحص الطب الباطني"
+            },
+            "duration": 30
+          },
+          {
+            "id": "s2",
+            "name": {
+              "tr": "Kardiyoloji muayenesi",
+              "en": "Cardiology examination",
+              "ar": "فحص أمراض القلب"
+            },
+            "duration": 30
+          },
+          {
+            "id": "s3",
+            "name": {
+              "tr": "Çocuk sağlığı muayenesi",
+              "en": "Paediatric examination",
+              "ar": "فحص طب الأطفال"
+            },
+            "duration": 30
+          },
+          {
+            "id": "s4",
+            "name": {
+              "tr": "Kadın hastalıkları muayenesi",
+              "en": "Gynaecological examination",
+              "ar": "الفحص النسائي"
+            },
+            "duration": 30
+          },
+          {
+            "id": "s5",
+            "name": {
+              "tr": "Ortopedi muayenesi",
+              "en": "Orthopaedic examination",
+              "ar": "فحص جراحة العظام"
+            },
+            "duration": 30
+          },
+          {
+            "id": "s6",
+            "name": {
+              "tr": "Göz muayenesi",
+              "en": "Eye examination",
+              "ar": "فحص العيون"
+            },
+            "duration": 30
+          },
+          {
+            "id": "s7",
+            "name": {
+              "tr": "Nöroloji muayenesi",
+              "en": "Neurology examination",
+              "ar": "فحص طب الأعصاب"
+            },
+            "duration": 30
+          },
+          {
+            "id": "s8",
+            "name": {
+              "tr": "Fizik tedavi değerlendirmesi",
+              "en": "Physical therapy assessment",
+              "ar": "تقييم العلاج الطبيعي"
+            },
+            "duration": 60
+          }
+        ],
+        "staff": [
+          {
+            "id": "p1",
+            "name": {
+              "tr": "Uzm. Dr. Aylin Mert",
+              "en": "Dr. Aylin Mert",
+              "ar": "د. آيلين مرت"
+            },
+            "role": {
+              "tr": "Çocuk Sağlığı ve Hastalıkları uzmanı",
+              "en": "Specialist in Paediatrics",
+              "ar": "أخصائية طب الأطفال"
+            },
+            "services": [
+              "s1"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": {
+              "tr": "Uzm. Dr. Cem Ulu",
+              "en": "Dr. Cem Ulu",
+              "ar": "د. جم أولو"
+            },
+            "role": {
+              "tr": "Aile Hekimliği uzmanı",
+              "en": "Specialist in Family Medicine",
+              "ar": "أخصائي طب الأسرة"
+            },
+            "services": [
+              "s2"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": {
+              "tr": "Uzm. Dr. Sibel Ak",
+              "en": "Dr. Sibel Ak",
+              "ar": "د. سيبل آك"
+            },
+            "role": {
+              "tr": "Kadın Hastalıkları ve Doğum uzmanı",
+              "en": "Specialist in Obstetrics and Gynaecology",
+              "ar": "أخصائية أمراض النساء والتوليد"
+            },
+            "services": [
+              "s3"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": {
+              "tr": "Uzm. Dr. Rıza Gün",
+              "en": "Dr. Riza Gun",
+              "ar": "د. رضا غون"
+            },
+            "role": {
+              "tr": "Dahiliye (İç Hastalıkları) uzmanı",
+              "en": "Specialist in Internal Medicine",
+              "ar": "أخصائي الطب الباطني"
+            },
+            "services": [
+              "s4"
+            ]
+          },
+          {
+            "id": "p5",
+            "name": {
+              "tr": "Uzm. Dr. Nil Soy",
+              "en": "Dr. Nil Soy",
+              "ar": "د. نيل سوي"
+            },
+            "role": {
+              "tr": "Göz Hastalıkları uzmanı",
+              "en": "Specialist in Ophthalmology",
+              "ar": "أخصائية طب العيون"
+            },
+            "services": [
+              "s5"
+            ]
+          },
+          {
+            "id": "p6",
+            "name": {
+              "tr": "Uzm. Dr. Efe Kurt",
+              "en": "Dr. Efe Kurt",
+              "ar": "د. إفه كورت"
+            },
+            "role": {
+              "tr": "Ortopedi ve Travmatoloji uzmanı",
+              "en": "Specialist in Orthopaedics and Traumatology",
+              "ar": "أخصائي جراحة العظام والإصابات"
+            },
+            "services": [
+              "s6"
+            ]
+          },
+          {
+            "id": "p7",
+            "name": {
+              "tr": "Dyt. Ceren Öz",
+              "en": "Ceren Oz, Dietitian",
+              "ar": "الأخصائية جيرين أوز"
+            },
+            "role": {
+              "tr": "Diyetisyen",
+              "en": "Dietitian",
+              "ar": "أخصائية التغذية"
+            },
+            "services": [
+              "s7"
+            ]
+          },
+          {
+            "id": "p8",
+            "name": {
+              "tr": "Fzt. Kaan Er",
+              "en": "Kaan Er, Physiotherapist",
+              "ar": "الأخصائي كان إر"
+            },
+            "role": {
+              "tr": "Fizyoterapist",
+              "en": "Physiotherapist",
+              "ar": "أخصائي العلاج الطبيعي"
+            },
+            "services": [
+              "s8"
+            ]
+          }
+        ],
+        "sections": [
+          {
+            "id": "ic",
+            "name": {
+              "tr": "İç salon",
+              "en": "Indoor",
+              "ar": "الصالة الداخلية"
+            }
+          },
+          {
+            "id": "bahce",
+            "name": {
+              "tr": "Bahçe",
+              "en": "Garden",
+              "ar": "الحديقة"
+            }
+          }
+        ],
+        "hours": {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": "09:00",
+          "end": "18:00",
+          "slot": 30,
+          "breaks": [
+            {
+              "start": "12:30",
+              "end": "13:30"
+            }
+          ]
+        },
+        "closed": [
+          "2026-12-31",
+          "2027-01-01"
+        ],
+        "kvkk": {
+          "text": {
+            "tr": "Kişisel verilerimin bu randevu talebinin oluşturulması amacıyla işlenmesine ilişkin aydınlatma metnini okudum, anladım.",
+            "en": "I have read and understood the privacy notice on how my personal data is processed to create this appointment request.",
+            "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية لإنشاء طلب الموعد هذا وفهمته."
+          },
+          "href": "kisiselveriler"
+        },
+        "successText": {
+          "tr": "Randevu talebiniz alındı. Kaydınız hekim takviminin onayından sonra kesinleşir.",
+          "en": "Your appointment request has been received. It is confirmed once the physician’s schedule is checked.",
+          "ar": "تم استلام طلب موعدك، ويصبح الحجز مؤكدًا بعد مراجعة جدول الطبيب."
+        },
+        "ui": {
+          "stepsLabel": {
+            "tr": "Adımlar",
+            "en": "Steps",
+            "ar": "الخطوات"
+          },
+          "stepOf": {
+            "tr": "Adım {n} / {m}",
+            "en": "Step {n} of {m}",
+            "ar": "الخطوة {n} من {m}"
+          },
+          "s_service": {
+            "tr": "Hizmet",
+            "en": "Service",
+            "ar": "الخدمة"
+          },
+          "s_staff": {
+            "tr": "Uzman",
+            "en": "Specialist",
+            "ar": "المختص"
+          },
+          "s_party": {
+            "tr": "Kişi",
+            "en": "Guests",
+            "ar": "الضيوف"
+          },
+          "s_date": {
+            "tr": "Tarih",
+            "en": "Date",
+            "ar": "التاريخ"
+          },
+          "s_time": {
+            "tr": "Saat",
+            "en": "Time",
+            "ar": "الوقت"
+          },
+          "s_info": {
+            "tr": "Bilgiler",
+            "en": "Details",
+            "ar": "البيانات"
+          },
+          "s_confirm": {
+            "tr": "Onay",
+            "en": "Confirm",
+            "ar": "التأكيد"
+          },
+          "back": {
+            "tr": "Geri",
+            "en": "Back",
+            "ar": "رجوع"
+          },
+          "next": {
+            "tr": "Devam",
+            "en": "Continue",
+            "ar": "متابعة"
+          },
+          "reqNote": {
+            "tr": "* ile işaretli alanlar zorunludur.",
+            "en": "Fields marked * are required.",
+            "ar": "الحقول المميزة بعلامة * إلزامية."
+          },
+          "t_service": {
+            "tr": "Hizmet seçin",
+            "en": "Choose a service",
+            "ar": "اختر الخدمة"
+          },
+          "minUnit": {
+            "tr": "{n} dk",
+            "en": "{n} min",
+            "ar": "{n} دقيقة"
+          },
+          "t_staff": {
+            "tr": "Uzman seçin",
+            "en": "Choose a specialist",
+            "ar": "اختر المختص"
+          },
+          "anyStaff": {
+            "tr": "Fark etmez",
+            "en": "No preference",
+            "ar": "لا تفضيل"
+          },
+          "anyStaffHint": {
+            "tr": "Uygun olan uzman atanır.",
+            "en": "The first available specialist is assigned.",
+            "ar": "يُسنَد الموعد إلى أول مختص متاح."
+          },
+          "t_party": {
+            "tr": "Kaç kişisiniz?",
+            "en": "How many guests?",
+            "ar": "كم عدد الضيوف؟"
+          },
+          "partyMinus": {
+            "tr": "Kişi sayısını azalt",
+            "en": "Decrease guests",
+            "ar": "تقليل عدد الضيوف"
+          },
+          "partyPlus": {
+            "tr": "Kişi sayısını artır",
+            "en": "Increase guests",
+            "ar": "زيادة عدد الضيوف"
+          },
+          "partyCount": {
+            "tr": {
+              "one": "{n} kişi",
+              "other": "{n} kişi"
+            },
+            "en": {
+              "one": "{n} guest",
+              "other": "{n} guests"
+            },
+            "ar": {
+              "zero": "{n} ضيف",
+              "one": "ضيف واحد",
+              "two": "ضيفان",
+              "few": "{n} ضيوف",
+              "many": "{n} ضيفًا",
+              "other": "{n} ضيف"
+            }
+          },
+          "groupHint": {
+            "tr": "{n} kişiden büyük gruplar için lütfen bizi arayın.",
+            "en": "For groups larger than {n}, please call us.",
+            "ar": "للمجموعات التي يزيد عددها عن {n}، يُرجى الاتصال بنا."
+          },
+          "t_section": {
+            "tr": "Bölüm tercihi",
+            "en": "Seating preference",
+            "ar": "تفضيل الجلسة"
+          },
+          "anySection": {
+            "tr": "Fark etmez",
+            "en": "No preference",
+            "ar": "لا تفضيل"
+          },
+          "t_date": {
+            "tr": "Tarih seçin",
+            "en": "Choose a date",
+            "ar": "اختر التاريخ"
+          },
+          "prevMonth": {
+            "tr": "Önceki ay",
+            "en": "Previous month",
+            "ar": "الشهر السابق"
+          },
+          "nextMonth": {
+            "tr": "Sonraki ay",
+            "en": "Next month",
+            "ar": "الشهر التالي"
+          },
+          "calHint": {
+            "tr": "Gezinmek için ok tuşlarını, seçmek için Enter tuşunu kullanın. Kapalı günler seçilemez.",
+            "en": "Use the arrow keys to move and Enter to select. Unavailable days cannot be chosen.",
+            "ar": "استخدم مفاتيح الأسهم للتنقل ومفتاح Enter للاختيار. لا يمكن اختيار الأيام غير المتاحة."
+          },
+          "dayUnavailable": {
+            "tr": "uygun değil",
+            "en": "unavailable",
+            "ar": "غير متاح"
+          },
+          "selectedDate": {
+            "tr": "Seçilen tarih: {d}",
+            "en": "Selected date: {d}",
+            "ar": "التاريخ المختار: {d}"
+          },
+          "t_time": {
+            "tr": "Saat seçin",
+            "en": "Choose a time",
+            "ar": "اختر الوقت"
+          },
+          "timesFor": {
+            "tr": "{d} için uygun saatler",
+            "en": "Available times for {d}",
+            "ar": "الأوقات المتاحة ليوم {d}"
+          },
+          "p_morning": {
+            "tr": "Sabah",
+            "en": "Morning",
+            "ar": "الصباح"
+          },
+          "p_afternoon": {
+            "tr": "Öğleden sonra",
+            "en": "Afternoon",
+            "ar": "بعد الظهر"
+          },
+          "p_evening": {
+            "tr": "Akşam",
+            "en": "Evening",
+            "ar": "المساء"
+          },
+          "slotTaken": {
+            "tr": "dolu",
+            "en": "booked",
+            "ar": "محجوز"
+          },
+          "noSlots": {
+            "tr": "Bu tarihte uygun saat kalmadı. Lütfen başka bir gün seçin.",
+            "en": "No times are left on this date. Please choose another day.",
+            "ar": "لا توجد أوقات متاحة في هذا اليوم. يُرجى اختيار يوم آخر."
+          },
+          "t_info": {
+            "tr": "İletişim bilgileriniz",
+            "en": "Your contact details",
+            "ar": "بيانات التواصل"
+          },
+          "fName": {
+            "tr": "Ad soyad",
+            "en": "Full name",
+            "ar": "الاسم الكامل"
+          },
+          "fPhone": {
+            "tr": "Telefon",
+            "en": "Phone",
+            "ar": "رقم الهاتف"
+          },
+          "fEmail": {
+            "tr": "E-posta",
+            "en": "E-mail",
+            "ar": "البريد الإلكتروني"
+          },
+          "fEmailOpt": {
+            "tr": "E-posta (isteğe bağlı)",
+            "en": "E-mail (optional)",
+            "ar": "البريد الإلكتروني (اختياري)"
+          },
+          "fNote": {
+            "tr": "Not (isteğe bağlı)",
+            "en": "Note (optional)",
+            "ar": "ملاحظة (اختياري)"
+          },
+          "eService": {
+            "tr": "Lütfen bir hizmet seçin.",
+            "en": "Please choose a service.",
+            "ar": "يُرجى اختيار خدمة."
+          },
+          "eDate": {
+            "tr": "Lütfen uygun bir tarih seçin.",
+            "en": "Please choose an available date.",
+            "ar": "يُرجى اختيار تاريخ متاح."
+          },
+          "eTime": {
+            "tr": "Lütfen bir saat seçin.",
+            "en": "Please choose a time.",
+            "ar": "يُرجى اختيار وقت."
+          },
+          "eName": {
+            "tr": "Lütfen adınızı ve soyadınızı yazın.",
+            "en": "Please enter your full name.",
+            "ar": "يُرجى كتابة اسمك الكامل."
+          },
+          "ePhone": {
+            "tr": "Geçerli bir telefon numarası yazın.",
+            "en": "Please enter a valid phone number.",
+            "ar": "يُرجى كتابة رقم هاتف صحيح."
+          },
+          "eEmail": {
+            "tr": "Geçerli bir e-posta adresi yazın.",
+            "en": "Please enter a valid e-mail address.",
+            "ar": "يُرجى كتابة بريد إلكتروني صحيح."
+          },
+          "eKvkk": {
+            "tr": "Devam etmek için aydınlatma metnini onaylamanız gerekir.",
+            "en": "You need to accept the privacy notice to continue.",
+            "ar": "يجب الموافقة على إشعار الخصوصية للمتابعة."
+          },
+          "t_confirm": {
+            "tr": "Özet ve onay",
+            "en": "Review and confirm",
+            "ar": "المراجعة والتأكيد"
+          },
+          "sum_service": {
+            "tr": "Hizmet",
+            "en": "Service",
+            "ar": "الخدمة"
+          },
+          "sum_staff": {
+            "tr": "Uzman",
+            "en": "Specialist",
+            "ar": "المختص"
+          },
+          "sum_party": {
+            "tr": "Kişi sayısı",
+            "en": "Guests",
+            "ar": "عدد الضيوف"
+          },
+          "sum_section": {
+            "tr": "Bölüm",
+            "en": "Seating",
+            "ar": "الجلسة"
+          },
+          "sum_date": {
+            "tr": "Tarih",
+            "en": "Date",
+            "ar": "التاريخ"
+          },
+          "sum_time": {
+            "tr": "Saat",
+            "en": "Time",
+            "ar": "الوقت"
+          },
+          "sum_name": {
+            "tr": "Ad soyad",
+            "en": "Name",
+            "ar": "الاسم"
+          },
+          "sum_phone": {
+            "tr": "Telefon",
+            "en": "Phone",
+            "ar": "الهاتف"
+          },
+          "sum_email": {
+            "tr": "E-posta",
+            "en": "E-mail",
+            "ar": "البريد الإلكتروني"
+          },
+          "sum_note": {
+            "tr": "Not",
+            "en": "Note",
+            "ar": "ملاحظة"
+          },
+          "kvkkLink": {
+            "tr": "Aydınlatma metni",
+            "en": "Privacy notice",
+            "ar": "إشعار الخصوصية"
+          },
+          "submit_whatsapp": {
+            "tr": "WhatsApp ile gönder",
+            "en": "Send via WhatsApp",
+            "ar": "إرسال عبر واتساب"
+          },
+          "submit_mailto": {
+            "tr": "E-posta ile gönder",
+            "en": "Send by e-mail",
+            "ar": "إرسال بالبريد الإلكتروني"
+          },
+          "submit_ics": {
+            "tr": "Takvim dosyasını indir",
+            "en": "Download calendar file",
+            "ar": "تنزيل ملف التقويم"
+          },
+          "showcaseNote": {
+            "tr": "Bu bölüm bir gösterimdir: girdiğiniz bilgiler hiçbir yere gönderilmez. Gerçek talep için bizi arayabilirsiniz.",
+            "en": "This is a showcase: nothing you enter is sent anywhere. To make a real request, please call us.",
+            "ar": "هذا القسم للعرض فقط: لا تُرسَل أي بيانات تدخلها. لتقديم طلب فعلي يُرجى الاتصال بنا."
+          },
+          "callUs": {
+            "tr": "Bizi arayın",
+            "en": "Call us",
+            "ar": "اتصل بنا"
+          },
+          "restart": {
+            "tr": "Başa dön",
+            "en": "Start over",
+            "ar": "العودة إلى البداية"
+          },
+          "doneTitle_randevu": {
+            "tr": "Randevu talebiniz hazır",
+            "en": "Your appointment request is ready",
+            "ar": "طلب موعدك جاهز"
+          },
+          "doneTitle_masa": {
+            "tr": "Rezervasyon talebiniz hazır",
+            "en": "Your reservation request is ready",
+            "ar": "طلب حجزك جاهز"
+          },
+          "doneHint_whatsapp": {
+            "tr": "Mesaj WhatsApp'ta hazır olarak açıldı. Talebin bize ulaşması için mesajı göndermeyi unutmayın.",
+            "en": "The message opened in WhatsApp, ready to send. Remember to send it so your request reaches us.",
+            "ar": "فُتحت الرسالة جاهزة في واتساب. لا تنسَ إرسالها كي يصلنا طلبك."
+          },
+          "doneHint_mailto": {
+            "tr": "E-posta uygulamanızda hazır bir taslak açıldı. Göndermeyi unutmayın.",
+            "en": "A draft e-mail opened in your mail app. Remember to send it.",
+            "ar": "فُتحت مسودة رسالة في تطبيق البريد. لا تنسَ إرسالها."
+          },
+          "doneHint_ics": {
+            "tr": "Takvim dosyası indirildi. Kaydı takvim uygulamanıza ekleyebilirsiniz.",
+            "en": "The calendar file was downloaded. You can add the booking to your calendar app.",
+            "ar": "تم تنزيل ملف التقويم. يمكنك إضافة الحجز إلى تطبيق التقويم."
+          },
+          "reopen": {
+            "tr": "Mesajı yeniden aç",
+            "en": "Open the message again",
+            "ar": "فتح الرسالة مرة أخرى"
+          },
+          "reopen_ics": {
+            "tr": "Dosyayı yeniden indir",
+            "en": "Download again",
+            "ar": "إعادة التنزيل"
+          },
+          "addCal": {
+            "tr": "Takvime ekle",
+            "en": "Add to calendar",
+            "ar": "إضافة إلى التقويم"
+          },
+          "newBooking_randevu": {
+            "tr": "Yeni randevu",
+            "en": "New appointment",
+            "ar": "موعد جديد"
+          },
+          "newBooking_masa": {
+            "tr": "Yeni rezervasyon",
+            "en": "New reservation",
+            "ar": "حجز جديد"
+          },
+          "demoNote": {
+            "tr": "Demo: bilgileriniz yalnızca bu tarayıcıda saklanır, hiçbir sunucuya gönderilmez.",
+            "en": "Demo: your details stay in this browser only and are never sent to a server.",
+            "ar": "عرض تجريبي: تبقى بياناتك في هذا المتصفح فقط ولا تُرسَل إلى أي خادم."
+          },
+          "myTitle_randevu": {
+            "tr": "Randevularım",
+            "en": "My appointments",
+            "ar": "مواعيدي"
+          },
+          "myTitle_masa": {
+            "tr": "Rezervasyonlarım",
+            "en": "My reservations",
+            "ar": "حجوزاتي"
+          },
+          "cancel": {
+            "tr": "İptal et",
+            "en": "Cancel",
+            "ar": "إلغاء"
+          },
+          "cancelAria": {
+            "tr": "{d} saat {t} kaydını iptal et",
+            "en": "Cancel the booking on {d} at {t}",
+            "ar": "إلغاء الحجز بتاريخ {d} الساعة {t}"
+          },
+          "cancelled": {
+            "tr": "Kayıt iptal edildi.",
+            "en": "Booking cancelled.",
+            "ar": "تم إلغاء الحجز."
+          },
+          "svcFallback_randevu": {
+            "tr": "Randevu",
+            "en": "Appointment",
+            "ar": "موعد"
+          },
+          "msg_randevu_head": {
+            "tr": "Merhaba, {name} adına {date} saat {time} için {service} randevusu almak istiyorum.",
+            "en": "Hello, I would like to book {service} on {date} at {time} under the name {name}.",
+            "ar": "مرحبًا، أود حجز موعد ({service}) بتاريخ {date} الساعة {time} باسم {name}."
+          },
+          "msg_randevu_head_nosvc": {
+            "tr": "Merhaba, {name} adına {date} saat {time} için randevu almak istiyorum.",
+            "en": "Hello, I would like to book an appointment on {date} at {time} under the name {name}.",
+            "ar": "مرحبًا، أود حجز موعد بتاريخ {date} الساعة {time} باسم {name}."
+          },
+          "msg_masa_head": {
+            "tr": "Merhaba, {name} adına {date} saat {time} için {party} masa rezervasyonu yapmak istiyorum.",
+            "en": "Hello, I would like to reserve a table for {party} on {date} at {time} under the name {name}.",
+            "ar": "مرحبًا، أود حجز طاولة لـ {party} بتاريخ {date} الساعة {time} باسم {name}."
+          },
+          "msg_staff": {
+            "tr": "Tercih edilen uzman: {staff}",
+            "en": "Preferred specialist: {staff}",
+            "ar": "المختص المفضل: {staff}"
+          },
+          "msg_section": {
+            "tr": "Bölüm: {section}",
+            "en": "Seating: {section}",
+            "ar": "الجلسة: {section}"
+          },
+          "msg_phone": {
+            "tr": "Telefon: {phone}",
+            "en": "Phone: {phone}",
+            "ar": "الهاتف: {phone}"
+          },
+          "msg_email": {
+            "tr": "E-posta: {email}",
+            "en": "E-mail: {email}",
+            "ar": "البريد الإلكتروني: {email}"
+          },
+          "msg_note": {
+            "tr": "Not: {note}",
+            "en": "Note: {note}",
+            "ar": "ملاحظة: {note}"
+          },
+          "mailSubject_randevu": {
+            "tr": "Randevu talebi – {name}",
+            "en": "Appointment request – {name}",
+            "ar": "طلب موعد – {name}"
+          },
+          "mailSubject_masa": {
+            "tr": "Rezervasyon talebi – {name}",
+            "en": "Reservation request – {name}",
+            "ar": "طلب حجز – {name}"
+          },
+          "icsSummary_randevu": {
+            "tr": "Randevu: {service}",
+            "en": "Appointment: {service}",
+            "ar": "موعد: {service}"
+          },
+          "icsSummary_masa": {
+            "tr": "Masa rezervasyonu – {party}",
+            "en": "Table reservation – {party}",
+            "ar": "حجز طاولة – {party}"
+          }
+        }
+      },
+      "id": "hrctnw",
+      "path": "randevu-formu",
+      "local": "body",
+      "data": [],
+      "index": 24
+    },
+    {
+      "name": "Kurumsal Değerler 1",
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "titlecolor": "var(--mx-site-text, #1b1b1b)",
+        "textcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "cardbg": "var(--mx-site-surface, #ffffff)",
+        "badgebg": "#2E6BFF",
+        "badgecolor": "#ffffff",
+        "badge": {
+          "tr": "Erişilebilirlik",
+          "en": "Accessibility",
+          "ar": "إمكانية الوصول"
+        },
+        "title": {
+          "tr": "Herkes için erişilebilir bir merkez",
+          "en": "A centre accessible to everyone",
+          "ar": "مركز مهيّأ للجميع"
+        },
+        "description": {
+          "tr": "Fiziksel erişim imkânlarımız ve randevu öncesi destek seçeneklerimiz.",
+          "en": "Our physical access features and support options before your visit.",
+          "ar": "تجهيزاتنا لتسهيل الوصول وخيارات الدعم قبل الزيارة."
+        }
+      },
+      "data": [
+        {
+          "icon": "accessible",
+          "name": {
+            "tr": "Basamaksız giriş",
+            "en": "Step-free entrance",
+            "ar": "مدخل بلا درج"
+          },
+          "description": {
+            "tr": "Ana girişte rampa ve otomatik kapı bulunur.",
+            "en": "The main entrance has a ramp and an automatic door.",
+            "ar": "يتوفر في المدخل الرئيسي منحدر وباب آلي."
+          }
+        },
+        {
+          "icon": "elevator",
+          "name": {
+            "tr": "Asansör",
+            "en": "Lift",
+            "ar": "المصعد"
+          },
+          "description": {
+            "tr": "Tüm katlara tekerlekli sandalye ile uygun asansörle çıkılır.",
+            "en": "All floors are reached by a wheelchair-friendly lift.",
+            "ar": "يمكن الوصول إلى جميع الطوابق بمصعد يناسب الكراسي المتحركة."
+          }
+        },
+        {
+          "icon": "local_parking",
+          "name": {
+            "tr": "Engelli otoparkı",
+            "en": "Accessible parking",
+            "ar": "مواقف ذوي الإعاقة"
+          },
+          "description": {
+            "tr": "Girişe en yakın noktada ayrılmış park yerleri vardır.",
+            "en": "Reserved parking spaces are located closest to the entrance.",
+            "ar": "توجد مواقف مخصصة في أقرب نقطة إلى المدخل."
+          }
+        },
+        {
+          "icon": "meeting_room",
+          "name": {
+            "tr": "Geniş muayene odaları",
+            "en": "Spacious examination rooms",
+            "ar": "غرف فحص واسعة"
+          },
+          "description": {
+            "tr": "Odalarda tekerlekli sandalyenin dönüş yapabileceği alan bırakılmıştır.",
+            "en": "Rooms leave enough space for a wheelchair to turn.",
+            "ar": "تُركت في الغرف مساحة تسمح للكرسي المتحرك بالدوران."
+          }
+        },
+        {
+          "icon": "wc",
+          "name": {
+            "tr": "Erişilebilir tuvalet",
+            "en": "Accessible toilet",
+            "ar": "دورة مياه مهيأة"
+          },
+          "description": {
+            "tr": "Her katta tutunma barlı, geniş bir tuvalet bulunur.",
+            "en": "Every floor has a wide toilet with grab bars.",
+            "ar": "يوجد في كل طابق مرحاض واسع مزوّد بمقابض دعم."
+          }
+        },
+        {
+          "icon": "support_agent",
+          "name": {
+            "tr": "Randevu öncesi destek",
+            "en": "Support before your visit",
+            "ar": "دعم قبل الزيارة"
+          },
+          "description": {
+            "tr": "Özel ihtiyacınızı randevu notuna yazın; ekibimiz hazırlık yapsın.",
+            "en": "Write your special needs in the appointment note so our team can prepare.",
+            "ar": "اكتب احتياجك الخاص في ملاحظة الموعد ليتمكن فريقنا من التجهيز."
+          }
+        }
+      ],
+      "category": "values",
+      "description": "Kurumsal değer kartları (MLA tarzı dört sütun). Rakam yok; ikon, başlık ve kısa açıklama. Animasyon, mobil tek sütun ve prefers-reduced-motion destekler.",
+      "version": "1.0.0",
+      "icon": "diamond",
+      "id": "mndcay",
+      "path": "values-1",
+      "local": "body",
+      "index": 25
+    },
+    {
+      "name": "Galeri Masonry (Filtre + Lightbox)",
+      "description": "Masonry (sütun) ya da sabit oranlı ızgara galeri: kategori çipleriyle filtre (?cat= URL durumu, aria-pressed), lightbox (klavye, filtrelenmişte yalnız görünenler gezilir), lazy yükleme (width/height ile CLS yok), görselsiz öğede nötr yer tutucu. gap:0 ile kenarsız ızgara, hover başlık. Öğeler data[] içinde {img, thumb?, title{tr,en,ar}, cat, w, h, alt{tr,en,ar}}; kategoriler desing.cats[]. Üç dil + RTL.",
+      "version": "1.0.0",
+      "icon": "photo_library",
+      "category": "galeri",
+      "tags": [
+        "galeri",
+        "masonry",
+        "filtre",
+        "lightbox",
+        "portfolyo",
+        "gallery",
+        "ar"
+      ],
+      "desing": {
+        "max": "1280px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 48%, var(--mx-site-bg, #ffffff))",
+        "gap": "20px",
+        "radius": "24px",
+        "columns": {
+          "d": 3,
+          "t": 2,
+          "m": 1
+        },
+        "ratio": "auto",
+        "captions": "hover",
+        "filter": true,
+        "lightbox": true,
+        "lazy": true,
+        "urlPrefix": "",
+        "title": {
+          "tr": "Merkezimizden kareler",
+          "en": "Inside the centre",
+          "ar": "لقطات من مركزنا"
+        },
+        "description": {
+          "tr": "Bina, bekleme alanı, muayene odaları ve ekipmanlar.",
+          "en": "The building, waiting area, examination rooms and equipment.",
+          "ar": "المبنى ومنطقة الانتظار وغرف الفحص والمعدات."
+        },
+        "allLabel": {
+          "tr": "Tümü",
+          "en": "All",
+          "ar": "الكل"
+        },
+        "filterLabel": {
+          "tr": "Kategoriye göre filtrele",
+          "en": "Filter by category",
+          "ar": "التصفية حسب الفئة"
+        },
+        "countText": {
+          "zero": {
+            "ar": "لا توجد صور"
+          },
+          "one": {
+            "tr": "{n} fotoğraf",
+            "en": "{n} photo",
+            "ar": "صورة واحدة"
+          },
+          "two": {
+            "ar": "صورتان"
+          },
+          "few": {
+            "ar": "{n} صور"
+          },
+          "many": {
+            "ar": "{n} صورة"
+          },
+          "other": {
+            "tr": "{n} fotoğraf",
+            "en": "{n} photos",
+            "ar": "{n} صورة"
+          }
+        },
+        "emptyText": {
+          "tr": "Henüz gösterilecek görsel yok.",
+          "en": "There are no images to show yet.",
+          "ar": "لا توجد صور لعرضها بعد."
+        },
+        "lightboxLabels": {
+          "dialog": {
+            "tr": "Görsel görüntüleyici",
+            "en": "Image viewer",
+            "ar": "عارض الصور"
+          },
+          "close": {
+            "tr": "Kapat",
+            "en": "Close",
+            "ar": "إغلاق"
+          },
+          "prev": {
+            "tr": "Önceki görsel",
+            "en": "Previous image",
+            "ar": "الصورة السابقة"
+          },
+          "next": {
+            "tr": "Sonraki görsel",
+            "en": "Next image",
+            "ar": "الصورة التالية"
+          },
+          "counter": {
+            "tr": "{i} / {n}",
+            "en": "{i} / {n}",
+            "ar": "{i} من {n}"
+          }
+        },
+        "cats": [
+          {
+            "id": "ortam",
+            "name": {
+              "tr": "Ortam",
+              "en": "Spaces",
+              "ar": "الأماكن"
+            }
+          },
+          {
+            "id": "ekipman",
+            "name": {
+              "tr": "Ekipman",
+              "en": "Equipment",
+              "ar": "المعدات"
+            }
+          }
+        ]
+      },
+      "data": [
+        {
+          "img": "klinik-harita-bina.webp",
+          "cat": "ortam",
+          "w": 800,
+          "h": 450,
+          "title": {
+            "tr": "Merkez binası",
+            "en": "The centre building",
+            "ar": "مبنى المركز"
+          },
+          "alt": {
+            "tr": "Cam girişli iki katlı tıp merkezi binası",
+            "en": "Two-storey medical centre building with a glass entrance",
+            "ar": "مبنى المركز الطبي من طابقين بمدخل زجاجي"
+          }
+        },
+        {
+          "img": "klinik-bekleme.webp",
+          "cat": "ortam",
+          "w": 800,
+          "h": 600,
+          "title": {
+            "tr": "Bekleme salonu",
+            "en": "Waiting lounge",
+            "ar": "صالة الانتظار"
+          },
+          "alt": {
+            "tr": "Açık yeşil koltuklu aydınlık bekleme salonu",
+            "en": "Bright waiting lounge with pale green armchairs",
+            "ar": "صالة انتظار مضيئة بمقاعد خضراء فاتحة"
+          }
+        },
+        {
+          "img": "klinik-klinik-oda.webp",
+          "cat": "ortam",
+          "w": 800,
+          "h": 600,
+          "title": {
+            "tr": "Muayene odası",
+            "en": "Examination room",
+            "ar": "غرفة الفحص"
+          },
+          "alt": {
+            "tr": "Muayene yatağı ve gün ışığı alan pencereli oda",
+            "en": "Room with an examination couch and a daylight window",
+            "ar": "غرفة فيها سرير فحص ونافذة تدخل منها إضاءة النهار"
+          }
+        },
+        {
+          "img": "klinik-muayene-koltugu.webp",
+          "cat": "ekipman",
+          "w": 800,
+          "h": 600,
+          "title": {
+            "tr": "Muayene koltuğu",
+            "en": "Examination chair",
+            "ar": "كرسي الفحص"
+          },
+          "alt": {
+            "tr": "Beyaz odada ayarlanabilir muayene koltuğu",
+            "en": "Adjustable examination chair in a white room",
+            "ar": "كرسي فحص قابل للتعديل في غرفة بيضاء"
+          }
+        },
+        {
+          "img": "klinik-alet-yakin.webp",
+          "cat": "ekipman",
+          "w": 800,
+          "h": 600,
+          "title": {
+            "tr": "Steril aletler",
+            "en": "Sterile instruments",
+            "ar": "أدوات معقمة"
+          },
+          "alt": {
+            "tr": "Tepsiye düzenli dizilmiş steril paslanmaz aletler",
+            "en": "Sterile stainless instruments arranged on a tray",
+            "ar": "أدوات معقمة من الفولاذ المقاوم للصدأ مرتبة في صينية"
+          }
+        },
+        {
+          "img": "klinik-hekim-eli.webp",
+          "cat": "ekipman",
+          "w": 600,
+          "h": 800,
+          "title": {
+            "tr": "Steteskop",
+            "en": "Stethoscope",
+            "ar": "سماعة الطبيب"
+          },
+          "alt": {
+            "tr": "Beyaz önlüklü hekimin elindeki steteskop",
+            "en": "A stethoscope held in the hand of a physician in a white coat",
+            "ar": "سماعة طبية في يد طبيب يرتدي معطفًا أبيض"
+          }
+        },
+        {
+          "img": "klinik-tedavi-1.webp",
+          "cat": "ekipman",
+          "w": 800,
+          "h": 800,
+          "title": {
+            "tr": "Muayene masası",
+            "en": "Desk set-up",
+            "ar": "طاولة الفحص"
+          },
+          "alt": {
+            "tr": "Beyaz masada steteskop ve küçük bir bitki",
+            "en": "A stethoscope and a small plant on a white desk",
+            "ar": "سماعة طبية ونبتة صغيرة على طاولة بيضاء"
+          }
+        }
+      ],
+      "id": "7sk42v",
+      "path": "galeri-masonry",
+      "local": "body",
+      "index": 26
+    },
+    {
+      "name": "Page Desing 5",
+      "desing": {
+        "stil": "ikon-ustte-yuvarlak",
+        "height": "200",
+        "opacity": "0.5",
+        "font-size": "32",
+        "backgroundcolor": "#000",
+        "menu-active": "var(--mx-site-primary, #2563eb)",
+        "activetext": "var(--mx-site-primary-contrast, #ffffff)",
+        "textcolor": "#fff",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "border_radius": "24px",
+        "card_shadow": "0 10px 28px rgba(0, 0, 0, 0.08)",
+        "color": "var(--mx-site-text, #1b1b1b)",
+        "colortitle": "#111111",
+        "coloractive": "#000000",
+        "ui": {
+          "tr": {
+            "home": "Anasayfa",
+            "products": "Sayfalar",
+            "dimensions": "Ölçüler",
+            "dimNote": "Standart üretim referansıdır; proje bazında özelleştirilebilir.",
+            "quote": "Randevu",
+            "whatsapp": "WhatsApp",
+            "prev": "Önceki",
+            "next": "Sonraki"
+          },
+          "en": {
+            "home": "Home",
+            "products": "Pages",
+            "dimensions": "Dimensions",
+            "dimNote": "Standard production reference; customizable per project.",
+            "quote": "Appointment",
+            "whatsapp": "WhatsApp",
+            "prev": "Previous",
+            "next": "Next"
+          },
+          "ar": {
+            "home": "الرئيسية",
+            "products": "الصفحات",
+            "dimensions": "الأبعاد",
+            "dimNote": "مرجع إنتاج قياسي؛ قابل للتخصيص حسب المشروع.",
+            "quote": "موعد",
+            "whatsapp": "واتساب",
+            "prev": "السابق",
+            "next": "التالي"
+          }
+        },
+        "noTitle": {
+          "tr": "Başlık Yok",
+          "en": "No title",
+          "ar": "بدون عنوان"
+        },
+        "productNavAria": {
+          "tr": "Ürün navigasyonu",
+          "en": "Product navigation",
+          "ar": "تنقل المنتج"
+        }
+      },
+      "category": "page",
+      "description": "Sayfa basligi, yan menu ve icerik alani. Urun detayinda breadcrumb, olcu kartlari, teklif/WhatsApp CTA, onceki/sonraki urun navigasyonu. Kategori menusu ve responsive slide-in menu. Görsel varyant desing.stil (31 Eki 2026, yan menü bağlantıları): \"\" klasik (kutulu liste, bugünkü görünüm) · \"ikon-ustte-yuvarlak\" (ortalı karo, üstte daire ikon) · \"yatay-kart\" (ikon solda/RTL sağda, metin yanında, ayrı kartlar) · \"kenar-cizgili\" (kutu yok, başta ince çizgi; hover/aktifte primary çizgi ve içe kayma). Kart zemini bgcolor (31 Eki) korunur; eklenen renkler var(--mx-site-primary) türevi.",
+      "version": "1.4.0",
+      "icon": "web",
+      "id": "yu81u1",
+      "path": "page-desing-5",
+      "local": "body",
+      "data": [],
+      "index": 27
+    },
+    {
+      "name": {
+        "tr": "İletişim 7 — Bölünmüş panel",
+        "en": "Contact 7 — Split panel",
+        "ar": "اتصال 7 — لوحة مقسّمة"
+      },
+      "description": {
+        "tr": "Bölünmüş iletişim: koyu bilgi paneli (adres · telefon · e-posta · saat · sosyal · harita bağlantısı) + form (ad, e-posta, telefon, konu, mesaj, zorunlu KVKK onayı). Gönderim mailto: ya da WhatsApp hazır mesaj (desing.gonderim). Üç görsel varyant (desing.stil): bolunmus · kart-ustte · harita-arka (iframe arka plan, yüzen form). Üç dil, RTL, koyu mod token'larla.",
+        "en": "Split contact section: dark info panel (address · phone · e-mail · hours · social · map link) + form (name, e-mail, phone, subject, message, required privacy consent). Submission via mailto: or WhatsApp prefilled message (desing.gonderim). Three visual variants (desing.stil): bolunmus · kart-ustte · harita-arka (iframe background, floating form). Three languages, RTL, dark mode via tokens.",
+        "ar": "قسم اتصال مقسّم: لوحة معلومات داكنة (العنوان · الهاتف · البريد · ساعات العمل · التواصل الاجتماعي · رابط الخريطة) + نموذج (الاسم، البريد، الهاتف، الموضوع، الرسالة، موافقة خصوصية إلزامية). الإرسال عبر mailto: أو رسالة واتساب جاهزة. ثلاثة أنماط مرئية، ثلاث لغات، RTL، وضع داكن."
+      },
+      "version": "1.0.0",
+      "icon": "contact_mail",
+      "category": "contact",
+      "tags": [
+        "iletisim",
+        "contact",
+        "form",
+        "whatsapp",
+        "mailto",
+        "kvkk",
+        "ar"
+      ],
+      "desing": {
+        "max": "1200px",
+        "stil": "kart-ustte",
+        "gonderim": "mailto",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "panelbg": "color-mix(in srgb, #0f172a 82%, var(--mx-site-primary, #2563eb))",
+        "paneltext": "#f1f5f9",
+        "panelmuted": "color-mix(in srgb, #f1f5f9 74%, transparent)",
+        "errcolor": "var(--mx-color-danger, #b42318)",
+        "radius": "24px",
+        "title": {
+          "tr": "Bize yazın",
+          "en": "Write to us",
+          "ar": "راسلنا"
+        },
+        "description": {
+          "tr": "Randevu dışı sorularınız için formu kullanın; acil durumlarda 112’yi arayın.",
+          "en": "Use the form for questions other than appointments; in an emergency call 112.",
+          "ar": "استخدم النموذج للأسئلة غير المتعلقة بالمواعيد؛ وفي الحالات الطارئة اتصل بالرقم 112."
+        },
+        "panelTitle": {
+          "tr": "İletişim Bilgileri",
+          "en": "Contact Details",
+          "ar": "بيانات الاتصال"
+        },
+        "panelText": {
+          "tr": "Ofisimize uğrayın, arayın ya da yazın — size yardımcı olmaktan mutluluk duyarız.",
+          "en": "Drop by our office, call or write — we are happy to help.",
+          "ar": "تفضّل بزيارة مكتبنا أو اتصل بنا أو اكتب لنا — يسعدنا مساعدتك."
+        },
+        "address": {
+          "tr": "Güneş Mah. Yonca Cd. No: 9, Şahinbey, Gaziantep (kurgusal adres)",
+          "en": "9 Yonca Avenue, Gunes District, Sahinbey, Gaziantep (fictional address)",
+          "ar": "حي غونش، شارع يونجا رقم 9، شاهين بي، غازي عنتاب (عنوان افتراضي)"
+        },
+        "phone": "+90 342 000 00 12",
+        "whatsapp": "903420000012",
+        "email": "randevu@maviyonca.example",
+        "hours": {
+          "tr": "Hafta içi 08:30 – 18:30 · Cumartesi 09:00 – 14:00",
+          "en": "Weekdays 08:30 – 18:30 · Saturday 09:00 – 14:00",
+          "ar": "أيام الأسبوع 08:30 – 18:30 · السبت 09:00 – 14:00"
+        },
+        "mapUrl": "",
+        "mapEmbed": "",
+        "addressTitle": {
+          "tr": "Adres",
+          "en": "Address",
+          "ar": "العنوان"
+        },
+        "phoneTitle": {
+          "tr": "Telefon",
+          "en": "Phone",
+          "ar": "الهاتف"
+        },
+        "emailTitle": {
+          "tr": "E-posta",
+          "en": "E-mail",
+          "ar": "البريد الإلكتروني"
+        },
+        "hoursTitle": {
+          "tr": "Çalışma Saatleri",
+          "en": "Working Hours",
+          "ar": "ساعات العمل"
+        },
+        "mapLink": {
+          "tr": "Haritada gör",
+          "en": "View on map",
+          "ar": "عرض على الخريطة"
+        },
+        "mapTitle": {
+          "tr": "Konum haritası",
+          "en": "Location map",
+          "ar": "خريطة الموقع"
+        },
+        "socialTitle": {
+          "tr": "Bizi takip edin",
+          "en": "Follow us",
+          "ar": "تابعنا"
+        },
+        "social": [],
+        "formTitle": {
+          "tr": "Mesaj Gönderin",
+          "en": "Send a Message",
+          "ar": "أرسل رسالة"
+        },
+        "nameLabel": {
+          "tr": "Ad Soyad",
+          "en": "Full name",
+          "ar": "الاسم الكامل"
+        },
+        "emailLabel": {
+          "tr": "E-posta",
+          "en": "E-mail",
+          "ar": "البريد الإلكتروني"
+        },
+        "phoneLabel": {
+          "tr": "Telefon",
+          "en": "Phone",
+          "ar": "الهاتف"
+        },
+        "subjectLabel": {
+          "tr": "Konu",
+          "en": "Subject",
+          "ar": "الموضوع"
+        },
+        "subjectPlaceholder": {
+          "tr": "Konu seçin",
+          "en": "Choose a subject",
+          "ar": "اختر الموضوع"
+        },
+        "subjects": [
+          {
+            "id": "randevu",
+            "name": {
+              "tr": "Randevu",
+              "en": "Appointment",
+              "ar": "موعد"
+            }
+          },
+          {
+            "id": "erisim",
+            "name": {
+              "tr": "Erişilebilirlik",
+              "en": "Accessibility",
+              "ar": "إمكانية الوصول"
+            }
+          },
+          {
+            "id": "belge",
+            "name": {
+              "tr": "Rapor / belge",
+              "en": "Report / document",
+              "ar": "تقرير / وثيقة"
+            }
+          },
+          {
+            "id": "diger",
+            "name": {
+              "tr": "Diğer",
+              "en": "Other",
+              "ar": "أخرى"
+            }
+          }
+        ],
+        "messageLabel": {
+          "tr": "Mesajınız",
+          "en": "Your message",
+          "ar": "رسالتك"
+        },
+        "kvkkText": {
+          "tr": "Kişisel verilerimin bu talep için işlenmesine ilişkin aydınlatma metnini okudum.",
+          "en": "I have read the privacy notice on how my personal data is processed for this request.",
+          "ar": "قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية لهذا الطلب."
+        },
+        "kvkkLinkText": {
+          "tr": "Aydınlatma metni",
+          "en": "Privacy notice",
+          "ar": "إشعار الخصوصية"
+        },
+        "kvkkHref": "kisiselveriler",
+        "submitText": {
+          "tr": "Gönder",
+          "en": "Send",
+          "ar": "إرسال"
+        },
+        "submitWhatsappText": {
+          "tr": "WhatsApp ile gönder",
+          "en": "Send via WhatsApp",
+          "ar": "إرسال عبر واتساب"
+        },
+        "mailSubject": {
+          "tr": "Web sitesi iletişim formu",
+          "en": "Website contact form",
+          "ar": "نموذج الاتصال بالموقع"
+        },
+        "optionalText": {
+          "tr": "isteğe bağlı",
+          "en": "optional",
+          "ar": "اختياري"
+        },
+        "errRequired": {
+          "tr": "Bu alan zorunludur.",
+          "en": "This field is required.",
+          "ar": "هذا الحقل إلزامي."
+        },
+        "errEmail": {
+          "tr": "Geçerli bir e-posta adresi girin.",
+          "en": "Enter a valid e-mail address.",
+          "ar": "أدخل بريدًا إلكترونيًا صالحًا."
+        },
+        "errPhone": {
+          "tr": "Geçerli bir telefon numarası girin.",
+          "en": "Enter a valid phone number.",
+          "ar": "أدخل رقم هاتف صالحًا."
+        },
+        "errKvkk": {
+          "tr": "Devam etmek için onay kutusunu işaretleyin.",
+          "en": "Tick the consent box to continue.",
+          "ar": "حدّد خانة الموافقة للمتابعة."
+        },
+        "errSummary": {
+          "tr": "Lütfen işaretli alanları düzeltin.",
+          "en": "Please fix the highlighted fields.",
+          "ar": "يرجى تصحيح الحقول المحددة."
+        },
+        "okText": {
+          "tr": "E-posta uygulamanız açılıyor; mesajı oradan gönderebilirsiniz.",
+          "en": "Your e-mail app is opening; you can send the message from there.",
+          "ar": "يتم فتح تطبيق البريد الإلكتروني؛ يمكنك إرسال الرسالة من هناك."
+        },
+        "okWhatsappText": {
+          "tr": "WhatsApp açılıyor; hazır mesajı gönderebilirsiniz.",
+          "en": "WhatsApp is opening; you can send the prepared message.",
+          "ar": "يتم فتح واتساب؛ يمكنك إرسال الرسالة الجاهزة."
+        },
+        "waIntro": {
+          "tr": "Merhaba, web sitenizden yazıyorum.",
+          "en": "Hello, I am writing from your website.",
+          "ar": "مرحبًا، أكتب إليكم من موقعكم الإلكتروني."
+        }
+      },
+      "data": [],
+      "id": "p8thy5",
+      "path": "contact-7",
+      "local": "body",
+      "index": 28
+    }
+  ]
+}

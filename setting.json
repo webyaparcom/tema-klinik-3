@@ -1,0 +1,58 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Mavi Yonca Aile Sağlığı: çocuk, aile hekimliği ve kadın sağlığı başta sekiz branş; randevu esaslı, erişilebilir bir merkez. (Demo site)",
+    "en": "Mavi Yonca Family Health: eight departments led by paediatrics, family medicine and women’s health; an appointment-based, accessible centre. (Demo site)",
+    "ar": "مافي يونجا لصحة الأسرة: ثمانية أقسام في مقدمتها طب الأطفال وطب الأسرة وصحة المرأة؛ مركز بالمواعيد ومهيأ للجميع. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "aile sağlığı, çocuk doktoru, randevu, tıp merkezi",
+    "en": "family health, paediatrician, appointment, medical centre",
+    "ar": "صحة الأسرة، طبيب أطفال، موعد، مركز طبي"
+  },
+  "category": "Kurumsal",
+  "name": "Mavi Yonca",
+  "domain": "klinik-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "icon": "icon.png",
+  "theme_color": "#5B4DB1",
+  "phone": "+90 342 000 00 12",
+  "email": "randevu@maviyonca.example",
+  "publishMode": "static",
+  "colorScheme": "auto",
+  "seo": {
+    "noindex": true
+  },
+  "font": {
+    "body": "nunito-sans",
+    "heading": "nunito",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "12px",
+    "--mx-radius-md": "16px",
+    "--mx-radius-lg": "24px",
+    "--mx-radius-xl": "32px",
+    "--mx-shadow-md": "0 12px 32px rgba(40,30,80,.10)",
+    "--mx-dur": "200ms"
+  }
+}
