@@ -1,0 +1,29 @@
+{
+  "name": "Mavi Yonca",
+  "short_name": "Mavi Yonca",
+  "description": "Mavi Yonca Aile Sağlığı: çocuk, aile hekimliği ve kadın sağlığı başta sekiz branş; randevu esaslı, erişilebilir bir merkez. (Demo site)",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5B4DB1",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

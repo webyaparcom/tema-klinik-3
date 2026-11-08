@@ -1,0 +1,40 @@
+{
+  "name": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "status": "play",
+  "id": "misyon",
+  "path": "misyon",
+  "category": "",
+  "text": {
+    "tr": "<h2>Misyonumuz</h2>\n<p>Misyonumuz, ailelerin her yaştan bireyine sakin bir ortamda, planlı randevuyla ve açık bilgilendirmeyle hizmet vermektir.</p>",
+    "en": "<h2>Our mission</h2>\n<p>Our mission is to serve family members of every age in a calm setting, by appointment and with clear information.</p>",
+    "ar": "<h2>مهمتنا</h2>\n<p>مهمتنا خدمة أفراد الأسرة من كل الأعمار في بيئة هادئة، بالمواعيد ومع معلومات واضحة.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "t2ct01"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 1,
+  "icon": "home",
+  "title": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "description": {
+    "tr": "Misyonumuz",
+    "en": "Our mission",
+    "ar": "مهمتنا"
+  },
+  "keyword": {},
+  "update": "2026-10-31T15:04:36.173Z",
+  "date": "2026-05-19"
+}

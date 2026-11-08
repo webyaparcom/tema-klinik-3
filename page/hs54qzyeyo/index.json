@@ -1,0 +1,45 @@
+{
+  "name": {
+    "tr": "Branşlar",
+    "en": "Departments",
+    "ar": "الأقسام"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hs54qzyeyo",
+  "url": "",
+  "path": "tedaviler",
+  "index": 1,
+  "icon": "medical_services",
+  "desing": {
+    "header": [],
+    "body": [
+      "91730m",
+      "x0gezz"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Sekiz branşta muayene ve takip hizmetleri.",
+    "en": "Examination and follow-up services in eight departments.",
+    "ar": "خدمات الفحص والمتابعة في ثمانية أقسام."
+  },
+  "spot": {
+    "tr": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Branşlar ve Tedaviler",
+    "en": "Departments and Treatments",
+    "ar": "الأقسام والعلاجات"
+  },
+  "keyword": {
+    "tr": "branş, tedavi, muayene",
+    "en": "department, treatment, examination",
+    "ar": "قسم، علاج، فحص"
+  },
+  "text": {},
+  "update": "2026-10-31T15:04:36.157Z",
+  "date": "2026-05-19"
+}

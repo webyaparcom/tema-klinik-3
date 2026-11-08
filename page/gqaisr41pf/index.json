@@ -1,0 +1,39 @@
+{
+  "id": "gqaisr41pf",
+  "name": {
+    "tr": "Randevu",
+    "en": "Appointment",
+    "ar": "الموعد"
+  },
+  "description": {
+    "tr": "Çevrimiçi muayene randevusu (demo).",
+    "en": "Online examination appointment (demo).",
+    "ar": "حجز موعد فحص عبر الإنترنت (تجريبي)."
+  },
+  "keyword": {
+    "tr": "randevu, muayene",
+    "en": "appointment, examination",
+    "ar": "موعد، فحص"
+  },
+  "path": "randevu",
+  "icon": "event",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "hrctnw"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Randevu",
+    "en": "Appointment",
+    "ar": "الموعد"
+  },
+  "date": "2026-10-31T14:43:43.325Z",
+  "update": "2026-10-31T15:04:36.159Z"
+}

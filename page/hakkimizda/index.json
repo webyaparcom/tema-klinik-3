@@ -1,0 +1,45 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About Us",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "id": "hakkimizda",
+  "path": "hakkimizda",
+  "category": "",
+  "text": {
+    "tr": "<h2>Hakkımızda</h2><p>Mavi Yonca Aile Sağlığı, Gaziantep’te çocuk, aile hekimliği ve kadın sağlığı başta sekiz branşta randevu esaslı hizmet veren kurgusal bir demo merkezdir. Hekimlerimiz uzmanlık unvanlarıyla tanıtılır; odalarımız çocuklu aileler için ferah ve erişilebilir düzenlenmiştir.</p>",
+    "en": "<h2>About us</h2><p>Mavi Yonca Family Health is a fictional demo centre in Gaziantep offering appointment-based care in eight departments led by paediatrics, family medicine and women’s health. Our physicians are introduced with their specialist titles; our rooms are spacious and accessible for families with children.</p>",
+    "ar": "<h2>من نحن</h2><p>مافي يونجا لصحة الأسرة مركز تجريبي افتراضي في غازي عنتاب يقدّم خدماته بالمواعيد في ثمانية أقسام في مقدمتها طب الأطفال وطب الأسرة وصحة المرأة. نعرّف بأطبائنا مع ألقابهم التخصصية، وغرفنا واسعة ومهيأة للعائلات التي لديها أطفال.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "t2in01",
+      "mpc8xd",
+      "7sk42v"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 0,
+  "icon": "info",
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About Us",
+    "ar": "من نحن"
+  },
+  "description": {
+    "tr": "Mavi Yonca hakkında.",
+    "en": "About Mavi Yonca.",
+    "ar": "نبذة عن مافي يونجا."
+  },
+  "keyword": {
+    "tr": "hakkımızda, aile sağlığı",
+    "en": "about, family health",
+    "ar": "من نحن، صحة الأسرة"
+  },
+  "update": "2026-10-31T15:04:36.168Z",
+  "date": "2026-05-19"
+}

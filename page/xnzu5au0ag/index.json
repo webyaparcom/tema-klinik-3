@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "İletişim",
+    "en": "Contact",
+    "ar": "اتصل بنا"
+  },
+  "status": "play",
+  "category": "",
+  "id": "xnzu5au0ag",
+  "url": "",
+  "path": "iletisim",
+  "index": 6,
+  "icon": "call",
+  "desing": {
+    "header": [],
+    "body": [
+      "p8thy5",
+      "bi4hta"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Adres, telefon, e-posta, form ve çalışma saatleri.",
+    "en": "Address, phone, e-mail, form and opening hours.",
+    "ar": "العنوان والهاتف والبريد الإلكتروني والنموذج وساعات العمل."
+  },
+  "spot": {
+    "tr": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "İletişim",
+    "en": "Contact",
+    "ar": "اتصل بنا"
+  },
+  "keyword": {
+    "tr": "iletişim, adres, telefon",
+    "en": "contact, address, phone",
+    "ar": "اتصل بنا، عنوان، هاتف"
+  },
+  "update": "2026-10-31T15:04:36.166Z",
+  "date": "2026-05-19"
+}
